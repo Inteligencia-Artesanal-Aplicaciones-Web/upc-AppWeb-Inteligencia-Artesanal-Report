@@ -30,3 +30,8 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Descripción**           | Soy Gonzalo Aliaga, tengo 19 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi sentido de responsabilidad y mi habilidad para trabajar en equipo. Disfruto colaborar con mis compañeros y aportar al cumplimiento de objetivos en el ámbito académico y en proyectos grupales. Poseo experiencia en diversos lenguajes de programación, como C++, Python y Java, además de conocimientos en bases de datos SQL y NoSQL. 
 |
 | Foto                      | ![Gonzalo-Aliaga-picture.png](../assets/chapter01/Gonzalo-Aliaga-picture.png)                                                                                                                                                                                                                                                                                                                                                                                            |
+
+
+## 1.2 Solution Profile
+
+### 1.2.1 Antecedentes y Problematica
