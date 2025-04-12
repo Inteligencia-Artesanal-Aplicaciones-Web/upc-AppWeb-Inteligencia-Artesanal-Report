@@ -188,6 +188,39 @@ Actualmente, los técnicos de refrigeración no siempre cuentan con un historial
 
 #### 1.2.2.2 Lean UX Hypothesis Statements
 
+**Hipótesis 1: Eficiencia operativa y reducción de fallas inesperadas**
+
+Creemos que al ofrecer una plataforma integral que unifique todas las funciones de monitoreo, mantenimiento y gestión técnica de equipos de refrigeración, aumentaremos la eficiencia operativa de los negocios y proveedores del sector, reduciendo la complejidad y el riesgo de fallas inesperadas.  
+Sabremos que estamos en lo correcto cuando veamos un aumento en la cantidad de negocios que reportan menos incidencias por fallas térmicas, así como una mejora en la planificación de sus mantenimientos preventivos.
+
+---
+
+**Hipótesis 2: Control de pérdidas operativas y consumo energético**
+
+Creemos que el control de pérdidas operativas y el consumo energético es una prioridad para los usuarios, por lo tanto, cuando proporcionemos herramientas de análisis de rendimiento y alertas automatizadas, mejoraremos la capacidad de los negocios para actuar de manera preventiva y reducir costos innecesarios.  
+Sabremos que estamos en lo correcto cuando observemos una adopción creciente de nuestras funcionalidades de monitoreo en tiempo real y reportes técnicos, así como una disminución en las pérdidas económicas por interrupciones del sistema de refrigeración.
+
+---
+
+**Hipótesis 3: Mejora en el servicio técnico personalizado y predictivo**
+
+Creemos que al proporcionar reportes técnicos automáticos, históricos de uso y rendimiento por equipo, permitiremos a los técnicos y empresas proveedoras ofrecer un servicio personalizado y predictivo, mejorando la calidad del soporte brindado a sus clientes.  
+Sabremos que estamos en lo correcto cuando recibamos retroalimentación positiva de técnicos sobre la utilidad de los reportes y el historial, y cuando sus clientes reporten mayor satisfacción con la rapidez y eficacia del servicio técnico.
+
+---
+
+**Hipótesis 4: Trazabilidad y protección de la información técnica**
+
+Creemos que al garantizar la trazabilidad de todas las acciones realizadas sobre cada unidad de refrigeración, así como la protección de la información técnica en la plataforma, construiremos confianza entre negocios y proveedores de servicios.  
+Sabremos que estamos en lo correcto cuando observemos una mayor fidelización de usuarios técnicos y empresariales, y una reducción en las incidencias relacionadas con pérdida de datos o errores administrativos.
+
+---
+
+**Hipótesis 5: Transición a una gestión moderna de refrigeración**
+
+Creemos que al ofrecer una solución digital intuitiva y especializada tanto para negocios como para técnicos, facilitaremos la transición hacia una gestión moderna de refrigeración, minimizando la curva de aprendizaje.  
+Sabremos que estamos en lo correcto cuando observemos una rápida adopción de nuestra plataforma, baja tasa de abandono y una mayor frecuencia de uso de las funcionalidades clave por parte de usuarios nuevos y recurrentes.
+
 
 #### 1.2.2.4 Lean UX Canvas
 
