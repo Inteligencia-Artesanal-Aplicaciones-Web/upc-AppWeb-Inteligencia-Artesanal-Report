@@ -258,3 +258,40 @@ Sabremos que estamos en lo correcto cuando observemos una rápida adopción de n
     </tr>
   </tbody>
 </table>
+
+## 1.3 Segmentos objetivos
+
+**Segmento Objetivo #1: Negocios que utilizan equipos de refrigeración**
+
+**Aspectos demográficos:**
+- **Tipo de negocio**: Pequeñas, medianas y grandes empresas
+- **Rubro**: Alimentario, farmacéutico, restauración y comercio minorista
+- **Nivel de necesidad**: Alta dependencia de sistemas de refrigeración
+
+**Aspectos geográficos:**
+- **Nacionalidad**: Peruana
+- **Zona geográfica**: Urbana
+- **Departamento**: Lima (con proyección de expansión nacional)
+
+**Aspectos psicográficos:**
+- Empresas que buscan evitar pérdidas económicas por fallas en refrigeración.
+- Negocios que requieren control eficiente del consumo energético.
+- Administradores interesados en implementar tecnología para optimizar sus operaciones y mantener la calidad del inventario.
+
+---
+
+**Segmento Objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración**
+
+**Aspectos demográficos:**
+- **Tipo de empresa**: Técnicos independientes, PYMES y proveedores especializados en refrigeración.
+- **Rol**: Técnicos de mantenimiento, instaladores, empresas de soporte técnico.
+
+**Aspectos geográficos:**
+- **Nacionalidad**: Peruana
+- **Zona geográfica**: Urbana
+- **Departamento**: Lima (con visión de expansión a nivel nacional)
+
+**Aspectos psicográficos:**
+- Técnicos que desean organizar sus visitas de forma eficiente y centralizada.
+- Empresas que buscan mejorar la trazabilidad de sus servicios y ofrecer reportes automáticos.
+- Profesionales que desean brindar un servicio más personalizado y predictivo a sus clientes.
