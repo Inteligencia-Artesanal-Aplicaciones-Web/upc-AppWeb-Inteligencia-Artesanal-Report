@@ -43,7 +43,7 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | **Carrera**               | Ingeniería de Software                                                                                                                                                                                                                                                                       |
 | **Descripción**           | Mi nombre es Italo Verona, tengo 20 años y actualmente curso el 5to ciclo de la carrera de ingeniería de software en la UPC, una vez terminé la carrera quisiera especializarme en ciberseguridad en el país de España. Luego quisiera vivir en Finlandia. El objetivo de estudiar ciberseguridad es poder reforzar la seguridad informática que hoy en día es muy peligrosa ya sea para las personas o las empresas de todo el mundo.
 |
-| Foto                      | ![Italo-Verona-Picture.jpg](D:\Universidad\Aplicaciones web\Tes\upc-AppWeb-Inteligencia-Artesanal-Report\assets\chapter01\Italo-Verona-Picture.jpg)                                                                                                                                                                                                                    
+| Foto                      |   ![Italo-Verona-Picture.jpg](../assets/chapter01/Italo-Verona-Picture.jpg)                                                                                                                                                                                                                  
 ## 1.2 Solution Profile
 
 ### 1.2.1 Antecedentes y Problematica
