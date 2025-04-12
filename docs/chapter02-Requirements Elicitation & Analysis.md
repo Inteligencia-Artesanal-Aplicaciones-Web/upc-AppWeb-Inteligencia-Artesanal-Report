@@ -164,10 +164,31 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 
 #### 2.2.1. Diseño de entrevistas
 
-**Segmento 1: **
+**Segmento 1: Negocios que utilizan equipos de refrigeración**
 
-**Segmento 2: **
+1. ¿Qué tipo de negocio tiene y qué productos necesita mantener en frío?
+2. ¿Cuántos equipos de refrigeración tiene actualmente?
+3. ¿Ha tenido pérdidas por fallas en sus equipos? ¿Qué impacto tuvo?
+4. ¿Cómo monitorea hoy el estado (temperatura, consumo, fallas) de esos equipos?
+5. ¿Con qué frecuencia realiza mantenimiento y quién se encarga?
+6. ¿Utiliza alguna herramienta digital para la gestión de estos equipos?
+7. ¿Qué tan útil le parecería recibir alertas automáticas por fallas o variaciones de temperatura?
+8. ¿Le interesaría tener un historial técnico y reportes automáticos por cada equipo?
+9. ¿Estaría dispuesto a pagar una suscripción si esto evita pérdidas y mejora la eficiencia?
+10. ¿Qué funcionalidades sí o sí debería tener una herramienta de este tipo para que usted la use?
 
+**Segmento 2: Empresas proveedoras de servicios y equipos de refrigeración**
+
+1. ¿A qué se dedica específicamente y hace cuánto trabaja en el rubro?
+2. ¿Cuántos clientes o negocios atiende regularmente?
+3. ¿Cómo organiza sus visitas técnicas y mantenimientos?
+4. ¿Lleva un historial técnico de los equipos que repara? ¿Cómo lo gestiona?
+5. ¿Cuáles son las principales dificultades que enfrenta su empresa al coordinar servicios técnicos?
+6. ¿Qué tan útil le sería tener una app donde pueda ver todos los equipos que provee o atiende?
+7. ¿Le interesaría recibir alertas sobre fallas en los equipos de sus clientes en el momento en el que suceden?
+8. ¿Qué tanto valora poder generar reportes automáticos y mantener trazabilidad de cada intervención?
+9. ¿Estaría dispuesto a usar una plataforma que le ayude a organizarse mejor y escalar su servicio?
+10. ¿Qué beneficios cree que podría tener la implementación de una solución digital como OsitoPolar a su empresa?
 
 
 #### 2.2.2. Registro de entrevistas
