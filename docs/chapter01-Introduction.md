@@ -62,21 +62,16 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 
 #### 1.2.2.1 Lean UX Problem Statements
 
-Segmento 1: Negocios que utilizan equipos de refrigeración (minimarkets, supermercados, laboratorios, restaurantes, etc.)
+El estado actual de la industria de la refrigeración comercial y técnica enfrenta importantes desafíos relacionados con la gestión, el mantenimiento y la trazabilidad de los equipos de congelación. Negocios que dependen críticamente del frío —como supermercados, minimarkets, laboratorios, restaurantes y empresas del sector alimentario o farmacéutico— aún lidian con la falta de monitoreo en tiempo real y con procesos de mantenimiento reactivos. Esto genera pérdidas económicas, ineficiencia energética y riesgos para el inventario.
 
-Problem Statement 1:
-Los negocios que dependen de sistemas de congelación enfrentan altos riesgos operativos al no contar con un monitoreo en tiempo real de sus equipos. Esto puede generar pérdidas económicas significativas por fallas térmicas no detectadas a tiempo. ¿Cómo podemos asegurar que estos negocios tengan acceso a información inmediata y precisa sobre el estado de sus equipos, de forma que puedan tomar decisiones rápidas y evitar daños en su inventario?
+Lo que las soluciones actuales no logran abordar es la necesidad de una plataforma confiable y automatizada que permita una gestión centralizada, predictiva y transparente tanto para los negocios como para los técnicos y proveedores de refrigeración. La falta de historial técnico accesible, reportes detallados y alertas preventivas limita la capacidad de respuesta ante fallas y deteriora la calidad del servicio técnico ofrecido.
 
-Problem Statement 2:
-Estos negocios muchas veces no cuentan con registros históricos ni alertas automatizadas que les permitan prevenir fallos en sus sistemas de refrigeración. Esto puede generar sobrecostos por mantenimientos correctivos y pérdidas de productos. ¿Cómo podemos implementar una herramienta que facilite el mantenimiento predictivo, permitiendo así una gestión eficiente de sus congeladoras y la optimización del consumo energético?
+**OsitoPolar** cierra esta brecha al ofrecer una solución tecnológica integral que conecta negocios con técnicos especializados, brindando funcionalidades como monitoreo en tiempo real de temperatura y consumo, programación inteligente de mantenimientos, alertas por fallas, reportes automáticos y trazabilidad completa de cada equipo. Además, proporciona a los proveedores de servicios un módulo para visualizar y gestionar eficientemente los equipos que atienden, organizar visitas y acceder al historial técnico de manera ágil.
 
-Segmento 2: Empresas proveedoras de servicios y equipos de refrigeración
+Nuestro enfoque inicial está en los negocios de Lima que necesitan asegurar el funcionamiento óptimo de sus sistemas de congelación, así como en los proveedores que buscan profesionalizar y escalar su servicio con herramientas digitales modernas.
 
-Problem Statement 1:
-Las empresas proveedoras de servicios de refrigeración deben atender múltiples clientes con equipos distribuidos en diversas ubicaciones. Sin una plataforma de gestión centralizada, esto puede generar retrasos, desorganización y falta de trazabilidad en las visitas técnicas. ¿Cómo podemos asegurar que los técnicos cuenten con una solución digital que les permita visualizar todos los equipos atendidos, recibir alertas y organizar sus visitas de manera automática y eficiente?
+Sabremos que hemos tenido éxito cuando observemos una reducción en fallas imprevistas, optimización del consumo energético, mayor eficiencia operativa en técnicos y un incremento en la satisfacción de los clientes finales, evidenciado en la continuidad del servicio y en la fidelización de los usuarios de la plataforma.
 
-Problem Statement 2:
-Actualmente, los técnicos de refrigeración no siempre cuentan con un historial técnico accesible por cliente o equipo, lo que dificulta brindar un servicio personalizado y predictivo. Esto puede disminuir la calidad del servicio y afectar la relación con el cliente. ¿Cómo podemos ofrecer una herramienta que centralice el historial técnico, optimice la generación de reportes y mejore la experiencia del cliente final?
 
 #### 1.2.2.2 Lean UX Assumption
 
