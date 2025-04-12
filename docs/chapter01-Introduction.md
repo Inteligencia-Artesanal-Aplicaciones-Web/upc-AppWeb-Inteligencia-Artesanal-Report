@@ -52,3 +52,22 @@ Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de
 | How much?     | ¿Cuánto es el impacto financiero?                           | Aunque el impacto económico varía según el tipo de negocio, la pérdida por una falla en un equipo de refrigeración puede ascender desde cientos hasta miles de soles en productos dañados, sin considerar el tiempo operativo perdido, la pérdida de clientes y la inversión en reparación o reposición de equipos.|
 
 ### 1.2.2 Lean UX Process
+
+#### 1.2.2.1 Lean UX Problem Statements
+
+Segmento 1: Negocios que utilizan equipos de refrigeración (minimarkets, supermercados, laboratorios, restaurantes, etc.)
+
+Problem Statement 1:
+Los negocios que dependen de sistemas de congelación enfrentan altos riesgos operativos al no contar con un monitoreo en tiempo real de sus equipos. Esto puede generar pérdidas económicas significativas por fallas térmicas no detectadas a tiempo. ¿Cómo podemos asegurar que estos negocios tengan acceso a información inmediata y precisa sobre el estado de sus equipos, de forma que puedan tomar decisiones rápidas y evitar daños en su inventario?
+
+Problem Statement 2:
+Estos negocios muchas veces no cuentan con registros históricos ni alertas automatizadas que les permitan prevenir fallos en sus sistemas de refrigeración. Esto puede generar sobrecostos por mantenimientos correctivos y pérdidas de productos. ¿Cómo podemos implementar una herramienta que facilite el mantenimiento predictivo, permitiendo así una gestión eficiente de sus congeladoras y la optimización del consumo energético?
+
+Segmento 2: Empresas proveedoras de servicios y equipos de refrigeración
+
+Problem Statement 1:
+Las empresas proveedoras de servicios de refrigeración deben atender múltiples clientes con equipos distribuidos en diversas ubicaciones. Sin una plataforma de gestión centralizada, esto puede generar retrasos, desorganización y falta de trazabilidad en las visitas técnicas. ¿Cómo podemos asegurar que los técnicos cuenten con una solución digital que les permita visualizar todos los equipos atendidos, recibir alertas y organizar sus visitas de manera automática y eficiente?
+
+Problem Statement 2:
+Actualmente, los técnicos de refrigeración no siempre cuentan con un historial técnico accesible por cliente o equipo, lo que dificulta brindar un servicio personalizado y predictivo. Esto puede disminuir la calidad del servicio y afectar la relación con el cliente. ¿Cómo podemos ofrecer una herramienta que centralice el historial técnico, optimice la generación de reportes y mejore la experiencia del cliente final?
+
