@@ -178,3 +178,43 @@ Actualmente, los técnicos de refrigeración no siempre cuentan con un historial
 - **Algoritmos de validación**: Implementaremos algoritmos de IA que verifiquen la información y filtren los reportes ambiguos o antiguos, garantizando solo datos confiables y actuales.
 - **Capacitación y soporte**: Para resolver la falta de adopción, ofreceremos tutoriales interactivos, videos explicativos y soporte técnico accesible para que los usuarios se familiaricen con las funciones.
 - **Colaboración con instituciones de seguridad**: Trabajaremos con entidades locales para verificar y validar los reportes, mejorando así la precisión y confianza en la app.
+
+#### 1.2.2.2 Lean UX Hypothesis Statements
+
+
+#### 1.2.2.4 Lean UX Canvas
+
+<table border="1">
+  <thead>
+    <tr>
+      <th><strong>Business Problem</strong></th>
+      <th><strong>Solutions</strong></th>
+      <th><strong>Business Outcomes</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Los negocios que dependen de equipos de refrigeración enfrentan grandes desafíos operativos debido a fallas inesperadas, altos consumos energéticos no detectados y falta de monitoreo constante. Esto puede llevar a pérdidas económicas, reducción de la calidad del servicio y pérdidas de productos.</td>
+      <td>Desarrollo de una plataforma web (OsitoPolar) que permita el monitoreo en tiempo real de temperatura, consumo energético, y tiempo de uso de los equipos de refrigeración. Incluye generación de reportes técnicos, alertas automáticas por fallas y programación inteligente de mantenimientos.</td>
+      <td>- Aumentar en al menos un 15% la cantidad de usuarios activos dentro de la aplicación.<br> - Lograr una mayor visibilidad en redes sociales, especialmente entre negocios de alimentos y técnicos de refrigeración.<br> - Generar confianza en el monitoreo y mantenimiento automatizado de los equipos.</td>
+    </tr>
+    <tr>
+      <td><strong>Users</strong></td>
+      <td><strong>User Outcomes & Benefits</strong></td>
+    </tr>
+    <tr>
+      <td>- **Negocios** que dependen de equipos de refrigeración: supermercados, minimarkets, restaurantes, laboratorios y empresas del sector alimentario y farmacéutico.<br> - **Técnicos de refrigeración** que brindan mantenimiento a los sistemas de congelación.<br> - **Proveedores de equipos de refrigeración** que buscan mejorar su servicio posventa.</td>
+      <td>- **Eficiencia operativa mejorada**: Mejora en la gestión de los equipos, reducción de tiempos de inactividad y pérdidas de productos.<br> - **Reducción de costos**: Optimización en el consumo energético y mantenimiento predictivo.<br> - **Toma de decisiones informada**: Acceso a reportes y estadísticas detalladas para tomar decisiones estratégicas.</td>
+    </tr>
+    <tr>
+      <td><strong>Hypotheses</strong></td>
+      <td><strong>What’s the most important thing we need to learn first?</strong></td>
+      <td><strong>What’s the least amount of work we need to do to learn the next most important thing?</strong></td>
+    </tr>
+    <tr>
+      <td>- Los empresarios necesitan una plataforma integral y fácil de usar para gestionar sus equipos de refrigeración.<br> - Los técnicos valorarán herramientas que les permitan gestionar múltiples clientes y equipos de manera eficiente.<br> - La implementación de IA y recomendaciones predictivas optimizará los procesos operativos.</td>
+      <td>El supuesto más riesgoso es que los empresarios realmente necesiten y valoren una funcionalidad avanzada de gestión de flotas. Es crucial validar si esta necesidad es real antes de continuar con el desarrollo a gran escala.</td>
+      <td>Realizar entrevistas con empresarios, encuestas y un Producto Mínimo Viable (MVP) para validar la hipótesis de que necesitan una solución de gestión de flotas avanzada. Esto nos permitirá obtener resultados rápidamente con una mínima inversión de tiempo y recursos.</td>
+    </tr>
+  </tbody>
+</table>
