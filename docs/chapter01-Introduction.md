@@ -14,3 +14,11 @@ Misión: Nuestra misión en OsitoPolar es proporcionar una solución tecnológic
 
 Visión: Queremos ser la empresa lider en gestión y mantenimiento de equipos de refrigeración, empezando por Lima y prontamente expandirnos a más lugares del Perú.
 
+### 1.1.2 Perfiles de integrantes del equipo
+
+| **Integrante**            | **Joseph Pablo Rodriguez Parco**                                                                                                          |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Código del Estudiante** | U202223286                                                                                                                                |
+| **Carrera**               | Ingeniería de Software                                                                                                                    |
+| **Descripción**           | Estudiante de Ingeniería de Software con afinidad por proyectos Web, Interesado en ML, Data Science y aprender por sobre todas las cosas. |
+| Foto                      | ![Joseph-Rodriguez-Picture.png](../assets/chapter01/Joseph-Rodriguez-Picture.png)                                                         |
