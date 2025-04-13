@@ -166,35 +166,86 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 
 **Segmento 1: Negocios que utilizan equipos de refrigeración**
 
-1. ¿A qué se dedica?
-2. ¿Qué tipo de negocio tiene y qué productos necesita mantener en frío?
-3. ¿Cuántos equipos de refrigeración tiene actualmente?
-4. ¿Ha tenido pérdidas por fallas en sus equipos? ¿Qué impacto tuvo?
-5. ¿Cómo monitorea hoy el estado (temperatura, consumo, fallas) de esos equipos?
-6. ¿Con qué frecuencia realiza mantenimiento y quién se encarga?
-7. ¿Utiliza alguna herramienta digital para la gestión de estos equipos?
-8. ¿Qué tan útil le parecería recibir alertas automáticas por fallas o variaciones de temperatura?
-9. ¿Le interesaría tener un historial técnico y reportes automáticos por cada equipo?
-10. ¿Estaría dispuesto a pagar una suscripción si esto evita pérdidas y mejora la eficiencia?
-11. ¿Qué funcionalidades sí o sí debería tener una herramienta de este tipo para que usted la use?
-12.  ¿Preferiría acceder a la herramienta desde su celular o computadora?
-13. ¿Qué le haría dejar de usar una aplicación de este tipo?
+1. ¿Qué edad tiene? 
+2. ¿De dónde es y a qué se dedica? 
+3. ¿Qué tipo de negocio tiene y qué productos necesita mantener en frío? 
+4. ¿Cuántos equipos de refrigeración tiene actualmente? 
+5. ¿Ha tenido pérdidas por fallas en sus equipos? ¿Qué impacto tuvo? 
+6. ¿Cómo monitorea hoy el estado (temperatura, consumo, fallas) de esos equipos? 
+7. ¿Con qué frecuencia realiza mantenimiento y quién se encarga? 
+8. ¿Utiliza alguna herramienta digital para la gestión de estos equipos? 
+9. ¿Qué tan útil le parecería recibir alertas automáticas por fallas o variaciones de temperatura? 
+10. ¿Le interesaría tener un historial técnico y reportes automáticos por cada equipo? 
+11. ¿Estaría dispuesto a pagar una suscripción si esto evita pérdidas y mejora la eficiencia? 
+12. ¿Qué funcionalidades sí o sí debería tener una herramienta de este tipo para que usted la use? 
+13. ¿Preferiría acceder a la herramienta desde su celular o computadora? 
+14. ¿Qué le haría dejar de usar una aplicación de este tipo?
 
 
 **Segmento 2: Empresas proveedoras de servicios y equipos de refrigeración**
 
-1. ¿A qué se dedica específicamente y hace cuánto trabaja en el rubro?
-2. ¿Cuántos clientes o negocios atiende regularmente?
-3. ¿Cómo organiza sus visitas técnicas y mantenimientos?
-4. ¿Lleva un historial técnico de los equipos que repara? ¿Cómo lo gestiona?
-5. ¿Cuáles son las principales dificultades que enfrenta su empresa al coordinar servicios técnicos?
-6. ¿Cómo coordina hoy sus rutas o visitas? ¿Utiliza alguna herramienta o lo hace manualmente?
-7. ¿Qué tan útil le sería tener una app donde pueda ver todos los equipos que provee o atiende?
-8. ¿Le interesaría recibir alertas sobre fallas en los equipos de sus clientes en el momento en el que suceden?
-9. ¿Qué tanto valora poder generar reportes automáticos y mantener trazabilidad de cada intervención?
-10. ¿Estaría dispuesto a usar una plataforma que le ayude a organizarse mejor y escalar su servicio?
-11. ¿Ha probado alguna solución parecida antes? ¿Por qué la dejó de usar (si la dejó)?
-12. ¿Qué beneficios cree que podría tener la implementación de una solución digital como OsitoPolar a su empresa?
+1. ¿Qué edad tiene? 
+2. ¿De dónde es? 
+3. ¿A qué se dedica específicamente y hace cuánto trabaja en el rubro? 
+4. ¿Cuántos clientes o negocios atiende regularmente? 
+5. ¿Cómo organiza sus visitas técnicas y mantenimientos? 
+6. ¿Lleva un historial técnico de los equipos que repara? ¿Cómo lo gestiona? 
+7. ¿Cuáles son las principales dificultades que enfrenta su empresa al coordinar servicios técnicos? 
+8. ¿Cómo coordina hoy sus rutas o visitas? ¿Utiliza alguna herramienta o lo hace manualmente? 
+9. ¿Qué tan útil le sería tener una app donde pueda ver todos los equipos que provee o atiende? 
+10. ¿Le interesaría recibir alertas sobre fallas en los equipos de sus clientes en el momento en el que suceden? 
+11. ¿Qué tanto valora poder generar reportes automáticos y mantener trazabilidad de cada intervención? 
+12. ¿Estaría dispuesto a usar una plataforma que le ayude a organizarse mejor y escalar su servicio? 
+13. ¿Ha probado alguna solución parecida antes? ¿Por qué la dejó de usar (si la dejó)? 
+14. ¿Qué beneficios cree que podría tener la implementación de una solución digital como OsitoPolar a su empresa?
 
-
+---
 #### 2.2.2. Registro de entrevistas
+
+##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
+
+
+
+
+##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
+
+---
+ #### Entrevista 1: 
+
+  - **Nombres y apellidos:** Wilder Canchan
+  - **Edad:** 45
+  - **Distrito:** Los Olivos
+
+
+  - ![Interview-1-segment-2.png](../assets/chapter02/Interview-1-segment-2.png)
+
+
+  - **Inicio:** 0:43
+  - **Duración:** 7:03 min
+  - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/ES1Kw9TJaNZGszXWCTKRDwMBAXSTN5Xfq1nkndAnOnWqzA?e=4eLG4i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  - **Resumen:** Wilder es un empresario con 7 años de experiencia en mantenimiento de equipos de refrigeración y aire acondicionado. Él atiende entre 20 a 25 clientes al mes, principalmente restaurantes, bares y bodegas. En cuanto a la atención al cliente, su empresa solo utiliza un número telefónico para coordinar las visitas técnicas. Una de las dificultades que enfrenta su empresa es la mala coordinación entre el cliente y el servidor de mantenimiento en cuanto al punto de llegada. Esto se debe a la imprecisión de la ubicación que brindan ciertas herramientas de software y el tráfico vehicular. Su equipo técnico utiliza Google Maps para planificar rutas. Wilder considera útil una aplicación que le ayude a mejorar la gestión de los equipos de mantenimiento y de los técnicos, con reportes de fallas en tiempo real y mejor comunicación con el cliente. Él cree que el impacto de una aplicación así sería muy positiva, pues mejoraría la precisión de los servicios y conseguiría la satisfacción de sus clientes.
+
+---
+
+ #### Entrevista 2: 
+
+  - **Nombres y apellidos:** Jackeline Bravo
+  - **Edad:** 37
+  - **Distrito:** San Martín de Porres
+
+
+  - ![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
+
+
+  - **Inicio:** 0:30
+  - **Duración:** 5:48 min
+  - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EcXJ53phM5tErK0_8ysM4ZMBiNklNpj06tU3JQk9_GmjnQ?e=MwcjYd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  - **Resumen:** Jacqueline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana. Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio. Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
+    Según ella, el impacto de una solución digital sería significativo, pues ahorraría tiempo, eliminaría procesos manuales, mejoraría la calidad del servicio, y aumentaría la satisfacción de sus clientes.
+
+---
+
+
+
+#### 2.2.3. Análisis de entrevistas
+Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que destacamos los puntos compartidos y tendencias comunes entre los usuarios.
