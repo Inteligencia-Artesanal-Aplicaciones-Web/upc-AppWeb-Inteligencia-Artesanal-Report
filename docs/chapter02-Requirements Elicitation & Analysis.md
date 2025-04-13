@@ -227,24 +227,42 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 
 ---
 
- #### Entrevista 2: 
+#### Entrevista 2:
 
-  - **Nombres y apellidos:** Jackeline Bravo
-  - **Edad:** 37
-  - **Distrito:** San Martín de Porres
-
-
-  - ![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
+- **Nombres y apellidos:** Jackeline Bravo
+- **Edad:** 36
+- **Distrito:** Comas
 
 
-  - **Inicio:** 0:30
-  - **Duración:** 5:48 min
-  - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EcXJ53phM5tErK0_8ysM4ZMBiNklNpj06tU3JQk9_GmjnQ?e=MwcjYd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-  - **Resumen:** Jacqueline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana. Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio. Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
-    Según ella, el impacto de una solución digital sería significativo, pues ahorraría tiempo, eliminaría procesos manuales, mejoraría la calidad del servicio, y aumentaría la satisfacción de sus clientes.
+- ![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
+
+
+- **Inicio:** 0:30
+- **Duración:** 5:48 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EcXJ53phM5tErK0_8ysM4ZMBiNklNpj06tU3JQk9_GmjnQ?e=MwcjYd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Resumen:** Jacqueline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana. Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio. Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
+  Según ella, el impacto de una solución digital sería significativo, pues ahorraría tiempo, eliminaría procesos manuales, mejoraría la calidad del servicio, y aumentaría la satisfacción de sus clientes.
 
 ---
 
+#### Entrevista 3:
+
+- **Nombres y apellidos:** Santiago Vique
+- **Edad:** 48
+- **Distrito:** San Martín de Porres
+
+
+- ![Interview-3-segment-2.png](../assets/chapter02/Interview-3-segment-2.png)
+
+
+- **Inicio:** 0:11
+- **Duración:** 7:09 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EfsC5pRPvnVFovKrip9liqwB6Eea4CGfHAiILJt8Yn-H1w?e=881RuS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Resumen:** Santiago es dueño de una empresa de venta y mantenimiento de equipos de refrigeración e instalación de cámaras frigoríficas, con 12 años de experiencia. Atiende principalmente a dos grandes clientes, el Grupo Backus y el Grupo Mambrino, y algunos clientes ambulatorios. Actualmente, no utiliza un sistema digital para gestionar el historial técnico de los equipos más allá de informes en PDF y Excel. Una de sus principales dificultades es la falta de información clara sobre las fallas de los equipos cuando coordina los servicios, lo que dificulta la preparación adecuada de herramientas y repuestos. Además, la planificación de rutas se realiza de manera manual, usando WhatsApp y Google Maps, lo que limita la eficiencia en tiempo real.
+  Santiago considera que una aplicación digital que permita gestionar equipos, recibir alertas sobre fallas y organizar las visitas técnicas mejoraría significativamente la eficiencia de su empresa. Cree que una solución digital reduciría costos, optimizaría el tiempo y mejoraría la calidad del servicio, lo que aumentaría la confianza y satisfacción de los clientes.
+
+
+---
 
 
 #### 2.2.3. Análisis de entrevistas
