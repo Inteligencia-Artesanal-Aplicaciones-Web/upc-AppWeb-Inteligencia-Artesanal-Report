@@ -205,6 +205,27 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
 
 
+---
+#### Entrevista 1:
+
+- **Nombres y apellidos:** Adriana Moloche
+- **Edad:** 32
+- **Distrito:** San Martín de Porres
+
+
+- ![Interview-1-segment-1.png](../assets/chapter02/Interview-1-segment-1.png)
+
+
+- **Inicio:** 0:02
+- **Duración:** 3:18 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EUSnM9J2IAJHggHYL2AGJEIBWavDtsQsp8swvVetaNGNOQ?e=0TNgA1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **Resumen:** Adriana es emprendedora y dueña de una bodega tipo mini market, donde conserva productos como embutidos, gaseosas, aguas y otras bebidas en frío. Actualmente cuenta con dos equipos de refrigeración y ha experimentado pérdidas debido a fallas en sus equipos. Para monitorear el estado de estos, revisa manualmente la temperatura y el consumo de energía diariamente, y realiza el mantenimiento cada 20 días.
+  No utiliza herramientas digitales para gestionar sus equipos, pero considera que sería completamente útil recibir alertas por fallas, variaciones de temperatura o consumo de energía. Además, le interesaría contar con un historial técnico y reportes automáticos por equipo tras cada servicio de mantenimiento, y estaría dispuesta a pagar una suscripción si esto le ayuda a evitar pérdidas.
+  Para Adriana, una herramienta digital ideal debe incluir funcionalidades como control de temperatura y monitoreo de electricidad. Sin embargo, el precio sería un factor clave que podría desmotivarla a usarla; por ello, considera necesario probar un demo previo y tener planes de suscripción adaptables, ya sean mensuales o anuales.
+
+---
+
+
 
 
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
