@@ -240,7 +240,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Inicio:** 0:30
 - **Duración:** 5:48 min
 - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/EcXJ53phM5tErK0_8ysM4ZMBiNklNpj06tU3JQk9_GmjnQ?e=MwcjYd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- **Resumen:** Jacqueline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana. Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio. Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
+- **Resumen:** Jackeline es una empresaria dedicada en el área administrativa con 13 años de experiencia en el rubro de servicios y equipos de refrigeración. Actualmente atiende a dos clientes fijos y varios temporales, incluyendo servicios preventivos trimestrales y activaciones de equipos los fines de semana. Para gestionar el historial técnico de los equipos que provee o repara, utiliza hojas de cálculo en Excel. Una de las dificultades que enfrenta su empresa es la falta de un software que permita visualizar información en tiempo real, lo que impacta en la eficiencia y calidad del servicio. Para la planificación de rutas, su equipo técnico usa aplicaciones como Maps y cronogramas proporcionados por los clientes. Jacqueline considera que sería muy útil contar con una aplicación digital que optimice la gestión de datos, permita el ingreso de información en tiempo real desde dispositivos móviles, y facilite la recepción de alertas técnicas de fallas en los equipos.
   Según ella, el impacto de una solución digital sería significativo, pues ahorraría tiempo, eliminaría procesos manuales, mejoraría la calidad del servicio, y aumentaría la satisfacción de sus clientes.
 
 ---
@@ -267,3 +267,47 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 
 #### 2.2.3. Análisis de entrevistas
 Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que destacamos los puntos compartidos y tendencias comunes entre los usuarios.
+
+**Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
+**Hallazgos:**
+- Algunos tienen más de 10 años de experiencia en el rubro.
+- Todos los entrevistados tienen como motivación principal brindar equipos de calidad y mejorar la eficiencia del servicio que ofrecen a sus clientes. Buscan optimizar los tiempos de respuesta y asegurar la satisfacción del cliente, especialmente en sectores que requieren atención técnica frecuente, como la refrigeración y el mantenimiento de equipos.
+- Los entrevistados comparten una motivación común, aunque sus prioridades varían en áreas como la optimización de la gestión de datos, la precisión en las intervenciones y la atención al cliente.
+- Todos mencionan que la coordinación de rutas es una dificultad, ya que actualmente se realiza de manera manual mediante WhatsApp, Google Maps, o cronogramas proporcionados por los clientes.
+- Algunos se centran más en los problemas asociados a la gestión de datos, mientras que otros destacan las dificultades relacionadas con las ubicaciones imprecisas y el tráfico vehicular.
+- La mayoría cree que a veces la labor ineficiente de coordinación del cliente es un problema, tanto para brindar su ubicación como para precisar la falla o problema de su equipo de refrigeración.
+- La falta de un sistema digital que centralice y facilite el acceso a los datos de los equipos y las intervenciones es otra limitante que impacta en la eficiencia de sus operaciones.
+- La mayoría de los entrevistados utilizan métodos tradicionales como Excel para gestionar el historial técnico de los equipos.
+- Todos están interesados en recibir alertas sobre fallas en los equipos en tiempo real, lo que les permitiría responder más rápido y con mayor precisión a los problemas.
+- Todos creen que una solución digital tendría un impacto positivo en su empresa.
+- Algunos anticipan un mayor impacto positivo en áreas específicas, como una buena gestión de tiempo, la reducción de costos y el aumento de la satisfacción tanto de los clientes como de los técnicos con los que colaboran.
+- Ninguno ha probado antes una solución digital que mejore la venta, gestión y mantenimiento de equipos de refrigeración más allá de las tradicionales.
+
+**Análisis estadístico**
+
+![pie_chart-1-segment-2.png](../assets/chapter02/pie_chart-1-segment-2.png)
+- Más del 50% de los empresarios tiene un número mayor a 10 años de experiencia en el rubro.
+
+---
+
+![pie_chart-2-segment-2.png](../assets/chapter02/pie_chart-2-segment-2.png)
+- Los empresarios tienen diferentes frecuencias de ciertas dificultades, a pesar de que tienen casi los mismos problemas.
+
+---
+![pie_chart-3-segment-2.png](../assets/chapter02/pie_chart-3-segment-2.png)
+- El 67% de los empresarios creen que el cliente es parcialmente causante de su problema de mayor frecuencia. Algunos de ellos han expresado su inconformidad respecto a los clientes que no explican bien las fallas de sus equipos.
+
+---
+
+![pie_chart-4-segment-2.png](../assets/chapter02/pie_chart-4-segment-2.png)
+- El 100% está interesado en recibir notificaciones sobre fallos que ocurren en equipos de refrigeración. Ellos creen que con dicha funcionalidad podrían hacer un mantenimiento preventivo más eficiente y lograr la satisfacción del cliente.
+
+---
+![pie_chart-5-segment-2.png](../assets/chapter02/pie_chart-5-segment-2.png)
+- Ni uno de los empresarios ha usado una plataforma digital que se asemeje a la que se muestran interesados. Ellos usaron aplicaciones para mejorar la eficiencia de su trabajo como WhatsApp y Maps o programas como Microsoft Excel. Sin embargo, estos no poseen todas las funcionalidades que necesitan.
+
+---
+![pie_chart-6-segment-2.png](../assets/chapter02/pie_chart-6-segment-2.png)
+- Cada empresario tiene una meta deseada de mayor prioridad diferente al resto a pesar de que todos ellos comparten los mismos deseos y esperan que una plataforma digital pueda ayudarles a obtenerlos.
+
+---
