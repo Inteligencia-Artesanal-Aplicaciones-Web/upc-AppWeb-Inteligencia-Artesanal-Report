@@ -458,3 +458,10 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 Este User Journey Map representa el recorrido actual de Luis Rojas. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Luis.
 ![JourneyMap-segment-2.png](../assets/chapter02/JourneyMap-segment-2.png)
+
+
+#### 2.3.4. Empathy Mapping.
+
+
+**Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
+![EmpathyMap-segment-2.png](../assets/chapter02/EmpathyMap-segment-2.png)
