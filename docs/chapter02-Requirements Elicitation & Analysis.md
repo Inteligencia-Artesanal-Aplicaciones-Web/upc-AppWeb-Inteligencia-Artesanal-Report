@@ -344,3 +344,109 @@ En esta sección se presentan las fichas de User Personas construidas a partir d
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
 ![UserPersona-Luis-Rojas.png](../assets/chapter02/UserPersona-Luis-Rojas.png)
 
+
+#### 2.3.2. User Task Matrix.
+
+En esta sección se presenta el User Task Matrix, construido a partir de los User Persona que representan a los dos segmentos clave identificados:
+
+Segmento 1: Negocios que utilizan equipos de refrigeración (representado por Carolina García).
+
+Segmento 2: Empresas proveedoras de servicios y equipos de refrigeración (representado por Luis Rojas).
+
+Las tareas fueron identificadas a partir del análisis cualitativo de entrevistas, y cada una fue evaluada según su frecuencia y nivel de importancia para los respectivos perfiles.
+
+
+
+<table>
+  <tr>
+    <th rowspan="2">Tarea / Task</th>
+    <th colspan="2">Carolina García</th>
+    <th colspan="2">Luis Rojas</th>
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+  <tr>
+    <td>Detectar o identificar fallas en los equipos</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Coordinar servicios de mantenimiento</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Planificar rutas de llegada al punto de atención</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Realizar mantenimiento preventivo o solicitarlo</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar datos de los equipos de refrigeración</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Gestionar costos por pérdidas de productos</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Evaluar la calidad de los equipos y servicios brindados</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear el desempeño de los técnicos</td>
+    <td>Baja</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Monitorear el desempeño de los equipos brindados</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Usar reportes técnicos para tomar decisiones</td>
+    <td>Baja</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comunicar fallas al técnico o proveedor</td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+**Análisis**
+
