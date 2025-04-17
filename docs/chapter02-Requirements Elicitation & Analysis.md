@@ -465,3 +465,13 @@ Esta sección refleja la situación actual sin intervención de soluciones tecno
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 ![EmpathyMap-segment-2.png](../assets/chapter02/EmpathyMap-segment-2.png)
+
+#### 2.3.5. As-is Scenario Mapping.
+
+En esta sección, nuestro equipo tomó en cuenta las etapas para su desarrollo. Iniciamos con la recolección de información proveniente de las entrevistas y análisis de estas de cada segmento respectivo, seguida de una lluvia de ideas, una revisión en conjunto e identificación de las fases y las áreas positivas y negativas.
+Una vez definido todo, procedimos a crear los As-is Scenario Mapping vinculados a cada User Persona en la plataforma Miro.
+Desde la perspectiva del usuario, este mapa nos permite visualizar su situación real: acciones actuales, emociones, pensamientos, puntos de dolor, etc.
+
+
+**Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
+![As-is-Scenario-segment-2.jpg](../assets/chapter02/As-is-Scenario-segment-2.jpg)
