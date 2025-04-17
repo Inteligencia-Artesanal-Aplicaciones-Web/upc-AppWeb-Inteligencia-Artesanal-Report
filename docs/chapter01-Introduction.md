@@ -141,52 +141,53 @@ Sabremos que hemos tenido éxito cuando observemos una reducción en fallas impr
 ## ¿Cómo debe verse nuestro producto y cómo comportarse?
 
 - **Interfaz amigable y confiable**: Los usuarios deben sentirse seguros al usar la aplicación. La interfaz debe ser clara, ordenada y fácil de navegar, sin sobrecargar de información, con gráficos e indicadores intuitivos.
-- **Colores y diseño**: Utilizaremos colores neutros y suaves para transmitir confianza y seguridad. Detalles técnicos estarán explicados de manera sencilla para que cualquier usuario pueda entenderlos sin problemas.
-- **Funcionalidad inmediata**: La app debe ser capaz de mostrar rutas seguras de viaje de forma eficiente y sin demoras. Los usuarios podrán ver de manera inmediata los estados de las rutas y zonas peligrosas.
-- **Adaptada a estudiantes y adultos**: La app está especialmente dirigida a estudiantes y adultos que tienen miedo o inseguridad al viajar, brindando un espacio donde se sentirán protegidos en cada viaje.
-- **Valor principal**: La capacidad de la app para proporcionar seguridad durante el trayecto hacia el destino, ayudando a los usuarios a tomar decisiones informadas sobre las rutas a seguir.
+- **Diseño centrado en tareas críticas**: Desde el primer acceso, los usuarios deben poder ver si hay fallas, cuándo es la próxima visita técnica, y acceder rápidamente a los reportes y al historial de sus equipos.
+- **Accesibilidad multiplataforma**: Disponible en web y móvil, adaptable para usuarios que están en oficina o en campo. Notificaciones inmediatas ante cualquier problema detectado.
+- **Simplicidad**: La app debe permitirles ver sus clientes, equipos en riesgo y visitas programadas, todo desde un panel centralizado. Pueden agendar visitas y generar reportes técnicos en segundos.
 
 ## ¿Qué valor busca el cliente?
 
-- **Seguridad en el trayecto**: El valor principal que un cliente busca en OsitoPolar es poder viajar con confianza y sin preocupaciones. La app les ofrece la tranquilidad de saber que están tomando la ruta más segura.
-- **Accesibilidad y rapidez**: Además de la seguridad, los usuarios buscan eficiencia en el uso de la app y la rapidez con la que pueden obtener la información relevante sobre rutas, zonas peligrosas, y avisos.
-- **Facilidad de uso**: La app debe ser fácil de usar y debe mostrar claramente el estado de las rutas y alertas en tiempo real.
+- **Gestión técnica simplificada**: Los proveedores y técnicos buscan dejar de ser reactivos. OsitoPolar los vuelve proactivos con mantenimiento predictivo, historiales claros y clientes organizados.
+- **Seguridad operativa y cero sorpresas**: Los negocios quieren evitar pérdidas por fallas en frío. OsitoPolar les da monitoreo constante, alertas automáticas y control total sobre sus equipos.
+- **Eficiencia energética y trazabilidad**: Los dueños quieren saber si sus equipos consumen de más, si están rindiendo mal, o si un componente ya debería ser reemplazado. El sistema lo identifica antes que ocurra el fallo.
 
 ## ¿Qué beneficios adicionales obtendrá el cliente?
 
-- **Notificaciones sobre robos recientes**: Los usuarios recibirán alertas automáticas sobre robos o incidentes ocurridos en su ruta, brindándoles información en tiempo real para tomar decisiones más seguras.
-- **Consejos de prevención**: La app ofrecerá tips sobre cómo evitar ser víctima de robos, con consejos prácticos y fáciles de seguir.
-- **Estado de rutas**: Los usuarios podrán conocer si alguna ruta está en obras o si hay manifestaciones, para ajustar sus trayectos y evitar problemas.
-- **Interacción con la comunidad**: Los usuarios podrán compartir sus experiencias y opiniones sobre las rutas a través de la caja de comentarios, lo que fomenta un sentido de comunidad y colaboración en la seguridad.
+- Visibilidad total del estado de sus equipos, desde cualquier lugar, en cualquier momento.
+- Soporte técnico más ágil gracias al historial previo y alertas automáticas.
+- Menores costos operativos gracias a mantenimientos a tiempo y mayor eficiencia energética.
+- Reportes personalizados y exportables.
+- Automatización de visitas técnicas cuando se detectan patrones de falla.
 
 ## ¿Cómo atraeremos usuarios?
 
-- **Marketing en redes sociales**: La principal vía de adquisición será a través de redes sociales, especialmente en plataformas como TikTok, donde se puede generar visibilidad con contenido atractivo y de utilidad.
-- **Eventos y asociaciones**: Se participará en eventos relacionados con la seguridad ciudadana y asociaciones que trabajen en problemas similares, para crear conciencia sobre la app.
-- **Publicidad enfocada en seguridad**: Realizaremos campañas publicitarias que destaquen la importancia de la seguridad en el trayecto, mostrando cómo la app puede marcar la diferencia.
+- **Marketing dirigido a nichos clave**: Supermercados, restaurantes y empresas de frío serán contactados directamente mediante LinkedIn, correos y llamadas estratégicas.
+- **Alianzas con proveedores de equipos**: Trabajaremos con empresas que venden congeladoras o cámaras frigoríficas para que incluyan OsitoPolar en sus paquetes posventa.
+- **Prueba gratuita de versiones de pago**: Un modelo de 14 días gratis con monitoreo limitado para mostrar el valor de la plataforma en tiempo real.
 
 ## ¿Cómo generaremos ingresos?
 
-- **Modelos de suscripción**: La app contará con suscripciones mensuales, bimestrales y trimestrales, que ofrecerán acceso a funciones premium como información detallada de rutas, alertas personalizadas, y soporte prioritario.
+- **Suscripción mensual de negocios**: Por el uso de la plataforma, según número de equipos, tipo de reportes y funcionalidades.
 - **Modelo freemium**: Habrá una versión gratuita que brindará algunas funciones limitadas, pero con anuncios, lo que generará ingresos adicionales.
-- **Publicidad en la app**: Las versiones gratuitas tendrán anuncios para generar ingresos mientras se promueve la app a nuevos usuarios.
+- **Publicidad dirigida (opcional)**: Marcas de refrigeración podrían pagar por visibilidad dentro de la plataforma si se llega a una masa crítica de técnicos y negocios.
 
 ## ¿Cuál es nuestra competencia y cómo la superamos?
 
-- **Competencia**: Las principales competidoras son aplicaciones relacionadas con la seguridad ciudadana, que ofrecen mapas de delitos o información sobre zonas peligrosas.
-- **Nuestra ventaja**: La diferencia de OsitoPolar es que no solo ofrece información de seguridad, sino que también proporciona rutas seguras en tiempo real, basadas en datos actualizados y validación por parte de la comunidad. Además, contamos con el apoyo de IA para recomendaciones personalizadas y rutas dinámicas.
+- **Competencia**: Las principales competidoras son aplicaciones relacionadas con la gestión de datos y orientada al servicio técnico de mantenimiento de equipos de refrigeración.
+- **Nuestra ventaja**: OsitoPolar fue diseñado exclusivamente para negocios que dependen de equipos de frío. No somos una herramienta genérica, somos expertos en el nicho. No solo registramos visitas o mantenimientos, también detectamos anomalías en tiempo real, generamos alertas y automatizamos acciones.
 
 ## ¿Cuál es nuestro mayor riesgo?
 
-- **Mala clasificación de rutas**: El mayor riesgo es que los reportes de rutas o zonas no estén bien clasificados o sean obsoletos, lo que podría generar una falsa sensación de seguridad o peligro.
+- **Adopción lenta por parte del personal tradicional**: Algunos proveedores aún dependen de agendas físicas o Excel y podrían resistirse al cambio.
 - **Falta de adopción inicial**: La dificultad para convencer a los primeros usuarios de que la app es útil y confiable puede retrasar su adopción.
-- **Dependencia de datos de usuarios**: Dependemos de los reportes de los usuarios para clasificar las rutas, lo que puede llevar a datos incompletos o poco confiables si no se manejan correctamente.
+- **Desconfianza en la precisión de los sensores**: Si los datos no son confiables, la plataforma pierde valor
 
 ## ¿Cómo lo resolveremos?
 
 - **Algoritmos de validación**: Implementaremos algoritmos de IA que verifiquen la información y filtren los reportes ambiguos o antiguos, garantizando solo datos confiables y actuales.
 - **Capacitación y soporte**: Para resolver la falta de adopción, ofreceremos tutoriales interactivos, videos explicativos y soporte técnico accesible para que los usuarios se familiaricen con las funciones.
-- **Colaboración con instituciones de seguridad**: Trabajaremos con entidades locales para verificar y validar los reportes, mejorando así la precisión y confianza en la app.
+- **Estrategia progresiva de integraciones**: Comenzaremos con los equipos más usados y luego ampliaremos compatibilidad mediante APIs y alianzas con fabricantes.
+- **Sensores certificados**: Solo se integrarán sensores probados.
 
 #### 1.2.2.2 Lean UX Hypothesis Statements
 
