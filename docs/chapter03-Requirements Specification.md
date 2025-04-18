@@ -63,4 +63,10 @@ El trabajo fue realizado de manera colaborativa, priorizando la comprensión del
 
 
 ### 3.3. Impact Mapping.
+
+El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de OsitoPolar para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
+
+
+![Impact-Mapping.png](../assets/chapter03/Impact-Mapping.png)
+
 ### 3.4. Product Backlog.
