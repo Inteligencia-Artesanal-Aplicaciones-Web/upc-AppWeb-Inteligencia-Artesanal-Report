@@ -224,8 +224,21 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
   Para Adriana, una herramienta digital ideal debe incluir funcionalidades como control de temperatura y monitoreo de electricidad. Sin embargo, el precio sería un factor clave que podría desmotivarla a usarla; por ello, considera necesario probar un demo previo y tener planes de suscripción adaptables, ya sean mensuales o anuales.
 
 ---
+#### Entrevista 2:
+- **Nombres y apellidos:** Luis Mamani Torres
+- **Edad:** 37
+- **Distrito:** Comas
 
-
+![Interview-2-segment-1.jpg](../assets/chapter02/Interview-2-segment-1.jpg)
+- **Inicio:** 0:25
+- **Duración:** 9:03 min
+- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EZpUpn4-Z8lEi6EC5ARiL_IBd8r8a3gLXm2QQ0OMfL59dw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o03M2P
+- **Resumen:** Luis Mamani, es un emprendedor dueño de una cevichería muy bien calificada por los vecinos de Comas, ex trabajador coordinador de platos marinos en hoteles como el Sheraton, entre otros más, encargado de control de cocina en diversos restaurantes del Perú.
+Actualmente, cuenta con equipos de refrigeración ya que para el rubro marino, todo debe estár en refrigeración, Luis recalca la diferencia entre refrigeración y congelación, porque en cevichería pocas cosas pueden estár congeladas, pero muchas pueden estár congeladas porque se toman como pérdidas.
+Para Luis esta herramienta le ayudaría si tuviera que estár pendiente de muchos locales de cevicherías o así, ahora que él tiene un solo local, el se encarga de todo pero aclara la importancia que esto tiene a gran escala. Para Luis ahora el produto es interesante, está interesado en usarlo si tuviese garn escala.
+Como ahora no lo tiene, quisiera usarlo para tener un control de los productos que tiene, y así no perderlos, ya que el ceviche es un producto muy delicado.
+Luis menciona que no tiene un sistema de refrigeración, pero que le gustaría tenerlo, ya que ahora tiene un sistema de refrigeración, pero no tiene un sistema de monitoreo. Luis menciona que no tiene un sistema de monitoreo, pero que le gustaría tenerlo, ya que ahora tiene un sistema de monitoreo, pero no tiene un sistema de refrigeración.
+Luis comenta que las empresas de refrigeración como avicolas, tienen estos sitemas pero no de manera tan sofiscticada como nuestra propuesta lo que realza valor en nuestro producto, que también dice que estarían dispuestos según su conocimiento a pagar, él también si tuviera una producción masiva.
 
 
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
