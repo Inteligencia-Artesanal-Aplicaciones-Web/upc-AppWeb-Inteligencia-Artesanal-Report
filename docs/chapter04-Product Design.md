@@ -106,3 +106,45 @@ Organización Matricial: Usamos tablas comparativas para mostrar claramente las 
 -Meta Author: OsitoPolar
 
 #### 4.2.4. Searching Systems
+
+Estas decisiones están orientadas a facilitar la navegación eficiente, evitando que los usuarios se sientan abrumados por grandes volúmenes de datos y asegurando que encuentren rápidamente lo que necesitan.
+
+**Opciones de Búsqueda**  
+**Barra de Búsqueda**  
+La barra de búsqueda permite a los usuarios ingresar términos específicos, como el nombre de un equipo, tipo de servicio o estado del equipo, para encontrar rápidamente información relevante. Los resultados se muestran instantáneamente a medida que se escriben los términos.
+
+**Categorías**  
+Los usuarios pueden seleccionar entre diferentes categorías de servicios y equipos, como "Congeladoras", "Refrigeradores", "Mantenimiento Preventivo", "Alertas de Fallas" y "Historial de Consumo", para limitar los resultados a un grupo específico.
+
+**Etiquetas Populares**  
+Las etiquetas populares, como "Mantenimiento Programado" o "Alertas Críticas", permiten a los usuarios buscar servicios o equipos relacionados con términos comunes, facilitando la localización de opciones populares o especializadas.
+
+**Filtros Disponibles**  
+**Filtros por Tipo de Equipo**
+- Congeladoras
+- Refrigeradores
+- Equipos de Frío Industrial
+
+**Filtros por Estado del Equipo**
+- En Funcionamiento
+- En Reparación
+- Necesita Mantenimiento
+
+**Filtro por Fecha de Última Revisión**  
+Los usuarios pueden ajustar el filtro para ver los equipos que han sido revisados en un periodo específico, como "Últimos 7 días", "Últimos 30 días", etc.
+
+**Filtro por Consumo Energético**  
+Los usuarios pueden ajustar el rango de consumo energético para encontrar equipos dentro de un rango de eficiencia energética deseado.
+
+**Apariencia de los Datos Después de la Búsqueda**  
+**Listados de Resultados**  
+Los resultados de búsqueda se muestran en una lista ordenada con información clave, como el nombre del equipo, estado actual, próximas fechas de mantenimiento y consumo energético. Además, se incluyen opciones para ver más detalles o agendar visitas de mantenimiento.
+
+**Resumen y Descripción**  
+Cada resultado incluye un resumen que resalta la información más relevante, como el historial de mantenimiento o las alertas generadas, permitiendo a los usuarios realizar una evaluación rápida.
+
+**Opciones de Ordenación y Filtros Aplicados**  
+Los resultados pueden ordenarse por criterios como relevancia, estado del equipo o consumo energético. Los filtros aplicados se muestran claramente para que los usuarios puedan ajustar su búsqueda según sea necesario.
+
+**Revisiones y Comentarios**  
+Los usuarios pueden ver un resumen de las revisiones y comentarios de los técnicos o clientes anteriores sobre el equipo o servicio, lo que les ayuda a evaluar la calidad del servicio y tomar decisiones informadas.
