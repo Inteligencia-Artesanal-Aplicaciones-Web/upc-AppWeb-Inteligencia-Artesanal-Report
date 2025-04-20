@@ -148,3 +148,30 @@ Los resultados pueden ordenarse por criterios como relevancia, estado del equipo
 
 **Revisiones y Comentarios**  
 Los usuarios pueden ver un resumen de las revisiones y comentarios de los técnicos o clientes anteriores sobre el equipo o servicio, lo que les ayuda a evaluar la calidad del servicio y tomar decisiones informadas.
+
+#### 4.2.5. Navigation Systems
+
+#### 4.2.5. Sistemas de Navegación
+
+La estructura de navegación y las opciones disponibles en **CoolFreez** están diseñadas para ofrecer una experiencia de usuario fluida y eficiente. A continuación, se resumen las secciones y elementos clave:
+
+1. **Páginas Principales**
+    - **Inicio**: Página principal del sitio web.
+    - **Funcionalidades**: Detalles sobre las herramientas y servicios que ofrece CoolFreez.
+    - **Beneficios**: Información sobre las ventajas para empresas y proveedores.
+    - **Nosotros**: Información sobre la empresa y su misión.
+    - **Contacto**: Información de contacto y formulario.
+
+2. **Opciones de Usuario**
+    - **Login**: Acceso a cuentas de usuario.
+    - **Sign-up**: Registro de nuevos usuarios.
+    - **Iniciar sesión / Registrarse**: Alternativa para acceso o creación de cuenta.
+
+3. **Búsqueda y Navegación**
+    - **Búsqueda**: Barra de búsqueda para encontrar equipos, servicios o reportes.
+    - **Categorías**: Filtros por tipo de equipo (Congeladoras, Refrigeradores, etc.).
+    - **Explorar**: Opciones para navegar por diferentes secciones de la plataforma.
+
+4. **Branding y Identidad**
+    - **CoolFreez**: Logo y nombre de la marca, repetidos en varias secciones para mantener la identidad visual de la plataforma.
+
