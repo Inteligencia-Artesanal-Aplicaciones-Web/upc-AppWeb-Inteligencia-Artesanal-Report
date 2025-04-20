@@ -1,7 +1,8 @@
 ## Capítulo III: Requirements Specification <a id="c3"></a>
 
 ### 3.1. To-Be Scenario Mapping.
-
+**Segmento objetivo #1: CLIENTES (DUEÑOS DE EQUIPOS DE REFRIGERACIÓN)**
+![To-Be-Scenario-segment-1.png](../assets/chapter03/To-Be-Scenario-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
