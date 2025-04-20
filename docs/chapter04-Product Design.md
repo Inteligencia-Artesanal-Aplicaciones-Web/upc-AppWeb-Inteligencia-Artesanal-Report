@@ -151,7 +151,6 @@ Los usuarios pueden ver un resumen de las revisiones y comentarios de los técni
 
 #### 4.2.5. Navigation Systems
 
-#### 4.2.5. Sistemas de Navegación
 
 La estructura de navegación y las opciones disponibles en **CoolFreez** están diseñadas para ofrecer una experiencia de usuario fluida y eficiente. A continuación, se resumen las secciones y elementos clave:
 
