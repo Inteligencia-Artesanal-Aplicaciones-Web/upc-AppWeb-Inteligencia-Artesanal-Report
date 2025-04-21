@@ -151,7 +151,6 @@ Los usuarios pueden ver un resumen de las revisiones y comentarios de los técni
 
 #### 4.2.5. Navigation Systems
 
-
 La estructura de navegación y las opciones disponibles en **CoolFreez** están diseñadas para ofrecer una experiencia de usuario fluida y eficiente. A continuación, se resumen las secciones y elementos clave:
 
 1. **Páginas Principales**
@@ -173,4 +172,11 @@ La estructura de navegación y las opciones disponibles en **CoolFreez** están 
 
 4. **Branding y Identidad**
     - **CoolFreez**: Logo y nombre de la marca, repetidos en varias secciones para mantener la identidad visual de la plataforma.
+
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
+
+El wireframe de la página de inicio de CoolFreez organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece CoolFreez. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
+
+![LandingPageWireframe.png](../assets/chapter04/LandingPageWireframe.png)
 
