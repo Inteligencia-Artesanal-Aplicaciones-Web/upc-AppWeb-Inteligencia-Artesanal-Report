@@ -180,3 +180,9 @@ El wireframe de la página de inicio de CoolFreez organiza los elementos clave p
 
 ![LandingPageWireframe.png](../assets/chapter04/LandingPageWireframe.png)
 
+#### 4.3.2. Landing Page Mockup
+
+El Landing Page Mock-up de CoolFreez muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
+
+![LandingPageMockUp.png](../assets/chapter04/LandingPageMockUp.png)
+
