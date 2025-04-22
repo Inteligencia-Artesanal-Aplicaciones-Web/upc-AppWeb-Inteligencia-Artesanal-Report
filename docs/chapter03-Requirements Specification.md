@@ -88,6 +88,8 @@ Escala de Story Points (Fibonacci):
 
 8: Tareas muy complejas o que afectan a múltiples áreas.
 
+![Product-Backlog.png](../assets/chapter03/Product-Backlog.png)
+
 | Orden | User Story ID | Titulo                                         | Descripcion                                                                                                                                                                | Story Points |
 |-------|---------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 1     | US-01         | Registro de usuario                            | Como nuevo usuario, quiero registrarme para acceder a la plataforma y empezar a gestionar mis equipos de refrigeración.                                                    | 5            |
