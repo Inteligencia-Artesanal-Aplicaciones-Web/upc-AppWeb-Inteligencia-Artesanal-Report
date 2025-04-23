@@ -480,6 +480,9 @@ Esta sección refleja la situación actual sin intervención de soluciones tecno
 
 #### 2.3.4. Empathy Mapping.
 
+**Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
+![EmpathyMap-segment-1.png](../assets/chapter02/EmpathyMap-segment-1.png)
+
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 ![EmpathyMap-segment-2.png](../assets/chapter02/EmpathyMap-segment-2.png)
