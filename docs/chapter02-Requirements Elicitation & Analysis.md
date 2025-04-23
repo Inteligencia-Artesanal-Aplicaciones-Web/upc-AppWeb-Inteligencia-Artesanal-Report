@@ -465,6 +465,11 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 
 
 #### 2.3.3. User Journey Mapping.
+**Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
+Este User Journey Map representa el recorrido actual de Carolina García. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
+Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Carolina.
+
+![JourneyMap-segment-1.png](../assets/chapter02/JourneyMap-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
