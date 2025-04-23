@@ -284,8 +284,7 @@ A continuación se presenta el prototipo de la aplicación web de CoolFreez, el 
 Link del prototipo: https://www.figma.com/proto/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2380-1261&p=f&t=oDeAQCXay9dwRQG6-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=2380%3A1233&show-proto-sidebar=1
 
 ### 4.6 Domain Driven Software Architecture
-
-
+En esta sección se presenta la arquitectura de software basada en el dominio para CoolFreez. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
 
 #### 4.6.1. Software Architecture Context Diagram
 
