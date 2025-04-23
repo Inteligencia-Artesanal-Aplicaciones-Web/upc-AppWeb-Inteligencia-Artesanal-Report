@@ -215,8 +215,40 @@ Los wireframes de las aplicaciones web de CoolFreez delinean la estructura y org
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
 
+### **Registro y Perfil de Empresa**:
+Este flujo de usuario corresponde al proceso de registro de una nueva empresa. En este flujo, el usuario ingresa la información empresarial, como nombre de la empresa y datos de contacto. Al completar el registro, la empresa pasa a estar registrada en la plataforma, con acceso a todas las funcionalidades de gestión de equipos.
 
+![RegistroyPerfilEmpresa.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/RegistroyPerfilEmpresa.png)
 
+### **Gestión de Usuario**:
+Este flujo de usuario describe las acciones para que el usuario se registre, inicie sesión, vea su perfil y edite su información personal. El objetivo es mantener actualizados los datos del usuario y facilitar el acceso a sus funcionalidades.
+
+![Gestión de Usuario.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gesti%C3%B3n%20de%20Usuario.png)
+
+### **Visualización de Equipos**:
+En este flujo, el usuario ve un resumen de todos los equipos registrados en su cuenta. Puede ver el estado de los equipos y obtener detalles de cada uno, como su mantenimiento.
+
+![Visualización de Equipos.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20Equipos.png)
+
+### **Gestión de Solicitudes**:
+Este flujo permite a las empresas gestionar las solicitudes que realizan los clientes para obtener servicios o equipos adicionales. La empresa puede **aceptar** o **negar** solicitudes.
+
+![Gestión de Solicitudes.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gesti%C3%B3n%20de%20Solicitudes.png)
+
+### **Visualización de Mantenimientos**:
+Este flujo permite al usuario ver los mantenimientos pendientes para los equipos. Las empresas pueden agendar o realizar un mantenimiento directamente desde esta vista.
+
+![Visualización de MantenimientosEmpr.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20MantenimientosEmpr.png)
+
+### **Notificaciones**:
+Este flujo gestiona las notificaciones que se muestran al usuario, como alertas de mantenimiento, solicitudes aceptadas o rechazadas, y otros eventos importantes.
+
+![Notificaciones.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Notificaciones.png)
+
+### **Cambio de Plan de Suscripción**:
+Este flujo permite a los usuarios cambiar el plan de suscripción para ajustarse a sus necesidades de equipos o servicios. Los usuarios pueden seleccionar entre diferentes planes según la cantidad de equipos o características que necesiten.
+
+![Cambio de Plan de Suscripción.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Cambio%20de%20Plan%20de%20Suscripci%C3%B3n.png)
 
 #### 4.4.3. Web Applications Mock-ups
 
