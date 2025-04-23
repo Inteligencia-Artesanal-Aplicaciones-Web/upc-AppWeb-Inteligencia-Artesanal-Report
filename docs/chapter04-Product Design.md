@@ -253,7 +253,25 @@ Este flujo permite a los usuarios cambiar el plan de suscripción para ajustarse
 #### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan y detallan los mock-ups de las aplicaciones de CoolFreez. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma CoolFreez. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
 
-
+![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png)
+![Contacto-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png)
+![Contacto-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png)
+![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png)
+![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png)
+![Inicio-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png)
+![Inicio-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png)
+![Inicio App.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png)
+![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png)
+![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png)
+![MiCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png)
+![MiCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png)
+![MisEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png)
+![MisEquipos-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png)
+![Notificaciones-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png)
+![Notificaciones-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png)
+![Registro-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png)
+![Registro-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
+![Solicitudes-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
