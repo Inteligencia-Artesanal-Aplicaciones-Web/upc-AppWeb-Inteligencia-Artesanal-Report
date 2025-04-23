@@ -299,11 +299,9 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 
 
 ### 4.7. Software Object-Oriented Design
-
-
+En esta sección se presenta el diseño de software orientado a objetos para CoolFreez. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
 
 #### 4.7.1. Class Diagrams
-
 
 
 #### 4.7.2. Class Dictionary
