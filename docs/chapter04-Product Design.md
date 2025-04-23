@@ -251,6 +251,8 @@ Este flujo permite a los usuarios cambiar el plan de suscripción para ajustarse
 ![Cambio de Plan de Suscripción.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Cambio%20de%20Plan%20de%20Suscripci%C3%B3n.png)
 
 #### 4.4.3. Web Applications Mock-ups
+En esta sección se presentan y detallan los mock-ups de las aplicaciones de CoolFreez. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma CoolFreez. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
+
 
 
 
