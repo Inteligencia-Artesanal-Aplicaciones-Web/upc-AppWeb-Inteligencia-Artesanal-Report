@@ -353,7 +353,7 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 En esta sección se presentan las fichas de User Personas construidas a partir de los datos recogidos del análisis de entrevistas al segmento #1: "Negocios que utilizan equipos de refrigeración" y al segmento #2: "Empresas proveedoras de servicios y equipos de refrigeración". Estas fichas permiten representar de forma clara y estratégica los perfiles del segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. Al integrar tanto la perspectiva del usuario como las tendencias del sector, estas representaciones sirven como una herramienta clave para el diseño de soluciones digitales centradas en el usuario y alineadas con las oportunidades del mercado.
 
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
-
+![UserPersona-Carolina_Garcia.png](../assets/chapter02/UserPersona-Carolina_Garcia.png)
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
 ![UserPersona-Luis-Rojas.png](../assets/chapter02/UserPersona-Luis-Rojas.png)
 
