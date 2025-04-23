@@ -275,8 +275,8 @@ En esta sección se presentan y detallan los mock-ups de las aplicaciones de Coo
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
-
-
+A continuación un diagrama que representa los user goals.
+![Web Applications User Flow Diagrams.png](../assets/chapter04/Web%20Applications%20User%20Flow%20Diagrams.png)
 
 ### 4.5. Web Applications Prototyping
 
