@@ -213,28 +213,54 @@ Los wireframes de las aplicaciones web de CoolFreez delinean la estructura y org
 ![Solicitudes-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
+
+
+
 
 #### 4.4.3. Web Applications Mock-ups
 
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+
 
 ### 4.5. Web Applications Prototyping
 
+
+
 ### 4.6 Domain Driven Software Architecture
+
+
 
 #### 4.6.1. Software Architecture Context Diagram
 
+
+
 #### 4.6.2. Software Architecture Container Diagrams
+
+
 
 #### 4.6.3. Software Architecture Components Diagrams
 
+
+
 ### 4.7. Software Object-Oriented Design
+
+
 
 #### 4.7.1. Class Diagrams
 
+
+
 #### 4.7.2. Class Dictionary
 
+
+
 ### 4.8. Database Design
+
+
 
 #### 4.8.1. Database Diagram
 
