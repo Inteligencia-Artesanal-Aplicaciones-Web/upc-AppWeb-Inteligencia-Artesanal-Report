@@ -190,28 +190,6 @@ El Landing Page Mock-up de CoolFreez muestra un diseño limpio y organizado, con
 
 #### 4.4.1. Web Applications Wireframes
 
-Los wireframes de las aplicaciones web de CoolFreez delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
-
-![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png)
-![Contacto-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png)
-![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png)
-![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png)
-![Inicio-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png)
-![Inicio-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png)
-![Inicio App.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png)
-![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png)
-![MiCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png)
-![MiCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png)
-![MisEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png)
-![MisEquipos-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png)
-![Notificaciones-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png)
-![Notificaciones-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
-![Registro-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
-![Registro-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
-![Solicitudes-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
-
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 #### 4.4.3. Web Applications Mock-ups
