@@ -273,14 +273,15 @@ En esta sección se presentan y detallan los mock-ups de las aplicaciones de Coo
 ![Registro-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
 ![Solicitudes-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
 
+Link de los mockups: https://www.figma.com/design/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2313-3&t=UphT97uJSGQzmQl1-1
 
 #### 4.4.4. Web Applications User Flow Diagrams
 A continuación un diagrama que representa los user goals.
 ![Web Applications User Flow Diagrams.png](../assets/chapter04/Web%20Applications%20User%20Flow%20Diagrams.png)
 
 ### 4.5. Web Applications Prototyping
-
-
+A continuación se presenta el prototipo de la aplicación web de CoolFreez, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
+Link del prototipo: https://www.figma.com/proto/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2380-1261&p=f&t=oDeAQCXay9dwRQG6-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=2380%3A1233&show-proto-sidebar=1
 
 ### 4.6 Domain Driven Software Architecture
 
