@@ -94,13 +94,13 @@ Organización Matricial: Usamos tablas comparativas para mostrar claramente las 
 #### 4.2.3. SEO Tags and Meta Tags
 
 **Landing Page**
--Title: CoolFreez - Monitorea y Gestiona tus Equipos de Congelación en Tiempo Real
+-Title: OsitoPolar - Monitorea y Gestiona tus Equipos de Congelación en Tiempo Real
 -Meta Description: OsitoPolar te permite monitorear y gestionar el estado de tus equipos de congelación, optimizando su rendimiento y evitando fallas. Mantén tu inventario seguro con alertas y mantenimiento predictivo.
 -Meta Keywords: monitoreo de congeladoras, gestión de equipos de frío, mantenimiento preventivo, OsitoPolar, alerta de fallas, eficiencia energética
 -Meta Author: OsitoPolar
 
 **Aplicación Web**
--Title: CoolFreez - Plataforma de Gestión de Equipos de Congelación
+-Title: OsitoPolar - Plataforma de Gestión de Equipos de Congelación
 -Meta Description: OsitoPolar facilita el monitoreo, mantenimiento y eficiencia de tus equipos de congelación. Gestiona en tiempo real el estado y rendimiento de tus equipos con facilidad.
 -Meta Keywords: gestión de equipos de frío, monitoreo en tiempo real, mantenimiento predictivo, OsitoPolar, alerta de fallas, reporte de eficiencia
 -Meta Author: OsitoPolar
@@ -151,11 +151,11 @@ Los usuarios pueden ver un resumen de las revisiones y comentarios de los técni
 
 #### 4.2.5. Navigation Systems
 
-La estructura de navegación y las opciones disponibles en **CoolFreez** están diseñadas para ofrecer una experiencia de usuario fluida y eficiente. A continuación, se resumen las secciones y elementos clave:
+La estructura de navegación y las opciones disponibles en **OsitoPolar** están diseñadas para ofrecer una experiencia de usuario fluida y eficiente. A continuación, se resumen las secciones y elementos clave:
 
 1. **Páginas Principales**
     - **Inicio**: Página principal del sitio web.
-    - **Funcionalidades**: Detalles sobre las herramientas y servicios que ofrece CoolFreez.
+    - **Funcionalidades**: Detalles sobre las herramientas y servicios que ofrece OsitoPolar.
     - **Beneficios**: Información sobre las ventajas para empresas y proveedores.
     - **Nosotros**: Información sobre la empresa y su misión.
     - **Contacto**: Información de contacto y formulario.
@@ -171,18 +171,18 @@ La estructura de navegación y las opciones disponibles en **CoolFreez** están 
     - **Explorar**: Opciones para navegar por diferentes secciones de la plataforma.
 
 4. **Branding y Identidad**
-    - **CoolFreez**: Logo y nombre de la marca, repetidos en varias secciones para mantener la identidad visual de la plataforma.
+    - **OsitoPolar**: Logo y nombre de la marca, repetidos en varias secciones para mantener la identidad visual de la plataforma.
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
 
-El wireframe de la página de inicio de CoolFreez organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece CoolFreez. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
+El wireframe de la página de inicio de OsitoPolar organiza los elementos clave para ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de navegación, seguido de una propuesta de valor clara con botones de acción destacados como "Solicitar Demo" y "¿Cómo Funciona?". La página cuenta con secciones para describir a los usuarios objetivo, las funcionalidades clave del sistema, y los beneficios que ofrece OsitoPolar. Al final, se encuentra un formulario de contacto para que los usuarios soliciten una demo, junto con enlaces legales en el pie de página.
 
 ![LandingPageWireframe.png](../assets/chapter04/LandingPageWireframe.png)
 
 #### 4.3.2. Landing Page Mockup
 
-El Landing Page Mock-up de CoolFreez muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
+El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
 ![LandingPageMockUp.png](../assets/chapter04/LandingPageMockUp.png)
 
@@ -190,27 +190,9 @@ El Landing Page Mock-up de CoolFreez muestra un diseño limpio y organizado, con
 
 #### 4.4.1. Web Applications Wireframes
 
-Los wireframes de las aplicaciones web de CoolFreez delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
+Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
 
-![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png)
-![Contacto-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png)
-![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png)
-![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png)
-![Inicio-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png)
-![Inicio-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png)
-![Inicio App.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png)
-![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png)
-![MiCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png)
-![MiCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png)
-![MisEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png)
-![MisEquipos-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png)
-![Notificaciones-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png)
-![Notificaciones-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
-![Registro-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
-![Registro-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
-![Solicitudes-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
+
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección se presentan los Wireflows para cada objetivo del usuario, teniendo en cuenta los User Personas relevantes. Cada diagrama ilustra el flujo de interacción del usuario y cómo las acciones realizadas afectan las pantallas dentro de la aplicación.
@@ -218,73 +200,50 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario, teni
 ### **Registro y Perfil de Empresa**:
 Este flujo de usuario corresponde al proceso de registro de una nueva empresa. En este flujo, el usuario ingresa la información empresarial, como nombre de la empresa y datos de contacto. Al completar el registro, la empresa pasa a estar registrada en la plataforma, con acceso a todas las funcionalidades de gestión de equipos.
 
-![RegistroyPerfilEmpresa.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/RegistroyPerfilEmpresa.png)
 
 ### **Gestión de Usuario**:
 Este flujo de usuario describe las acciones para que el usuario se registre, inicie sesión, vea su perfil y edite su información personal. El objetivo es mantener actualizados los datos del usuario y facilitar el acceso a sus funcionalidades.
 
-![Gestión de Usuario.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gesti%C3%B3n%20de%20Usuario.png)
 
 ### **Visualización de Equipos**:
 En este flujo, el usuario ve un resumen de todos los equipos registrados en su cuenta. Puede ver el estado de los equipos y obtener detalles de cada uno, como su mantenimiento.
 
-![Visualización de Equipos.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20Equipos.png)
 
 ### **Gestión de Solicitudes**:
 Este flujo permite a las empresas gestionar las solicitudes que realizan los clientes para obtener servicios o equipos adicionales. La empresa puede **aceptar** o **negar** solicitudes.
 
-![Gestión de Solicitudes.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gesti%C3%B3n%20de%20Solicitudes.png)
 
 ### **Visualización de Mantenimientos**:
 Este flujo permite al usuario ver los mantenimientos pendientes para los equipos. Las empresas pueden agendar o realizar un mantenimiento directamente desde esta vista.
 
-![Visualización de MantenimientosEmpr.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20MantenimientosEmpr.png)
 
 ### **Notificaciones**:
 Este flujo gestiona las notificaciones que se muestran al usuario, como alertas de mantenimiento, solicitudes aceptadas o rechazadas, y otros eventos importantes.
 
-![Notificaciones.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Notificaciones.png)
+
 
 ### **Cambio de Plan de Suscripción**:
 Este flujo permite a los usuarios cambiar el plan de suscripción para ajustarse a sus necesidades de equipos o servicios. Los usuarios pueden seleccionar entre diferentes planes según la cantidad de equipos o características que necesiten.
 
-![Cambio de Plan de Suscripción.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Cambio%20de%20Plan%20de%20Suscripci%C3%B3n.png)
+
 
 #### 4.4.3. Web Applications Mock-ups
-En esta sección se presentan y detallan los mock-ups de las aplicaciones de CoolFreez. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma CoolFreez. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
+En esta sección se presentan y detallan los mock-ups de las aplicaciones de OsitoPolar. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma OsitoPolar. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
 
-![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png)
-![Contacto-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png)
-![Contacto-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png)
-![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png)
-![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png)
-![Inicio-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png)
-![Inicio-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png)
-![Inicio App.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png)
-![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png)
-![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png)
-![MiCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png)
-![MiCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png)
-![MisEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png)
-![MisEquipos-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png)
-![Notificaciones-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png)
-![Notificaciones-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png)
-![Registro-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png)
-![Registro-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
-![Solicitudes-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
+
 
 Link de los mockups: https://www.figma.com/design/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2313-3&t=UphT97uJSGQzmQl1-1
 
 #### 4.4.4. Web Applications User Flow Diagrams
 A continuación un diagrama que representa los user goals.
-![Web Applications User Flow Diagrams.png](../assets/chapter04/Web%20Applications%20User%20Flow%20Diagrams.png)
+
 
 ### 4.5. Web Applications Prototyping
-A continuación se presenta el prototipo de la aplicación web de CoolFreez, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
+A continuación se presenta el prototipo de la aplicación web de OsitoPolar, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
 Link del prototipo: https://www.figma.com/proto/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2380-1261&p=f&t=oDeAQCXay9dwRQG6-1&scaling=min-zoom&content-scaling=fixed&page-id=2313%3A3&starting-point-node-id=2380%3A1233&show-proto-sidebar=1
 
 ### 4.6 Domain Driven Software Architecture
-En esta sección se presenta la arquitectura de software basada en el dominio para CoolFreez. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
+En esta sección se presenta la arquitectura de software basada en el dominio para OsitoPolar. Se detallan los diferentes diagramas que ilustran la estructura y organización del sistema, así como los componentes clave que lo integran, mostrando cómo se interconectan para proporcionar una solución eficiente y escalable.
 
 #### 4.6.1. Software Architecture Context Diagram
 
@@ -299,7 +258,7 @@ En esta sección se presenta la arquitectura de software basada en el dominio pa
 
 
 ### 4.7. Software Object-Oriented Design
-En esta sección se presenta el diseño de software orientado a objetos para CoolFreez. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
+En esta sección se presenta el diseño de software orientado a objetos para OsitoPolar. Se incluyen diagramas de clases y un diccionario de clases que detallan la estructura y los atributos de las principales entidades del sistema, ofreciendo una visión clara de cómo se organizan y gestionan los componentes clave dentro de la plataforma.
 
 #### 4.7.1. Class Diagrams
 
