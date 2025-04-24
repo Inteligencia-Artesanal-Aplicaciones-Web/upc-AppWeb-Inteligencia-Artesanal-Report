@@ -184,7 +184,28 @@ El wireframe de la página de inicio de OsitoPolar organiza los elementos clave 
 
 El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, con una estructura intuitiva que guía a los usuarios a través de la plataforma. Incluye una propuesta de valor destacada en la parte superior, seguida de secciones clave como las funcionalidades del sistema, los beneficios para empresas y proveedores, y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de clientes, detalles sobre la empresa y un formulario para solicitar una demo, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
-![LandingPageMockUp.png](../assets/chapter04/LandingPageMockUp.png)
+![mockup1.png](../assets/chapter04/Landing%20Page%20Mockups/mockup1.png)
+
+![mockup2.png](../assets/chapter04/Landing%20Page%20Mockups/mockup2.png)
+
+![mockup3.png](../assets/chapter04/Landing%20Page%20Mockups/mockup3.png)
+
+![mockup4.png](../assets/chapter04/Landing%20Page%20Mockups/mockup4.png)
+
+![mockup5.png](../assets/chapter04/Landing%20Page%20Mockups/mockup5.png)
+
+![mockup6.png](../assets/chapter04/Landing%20Page%20Mockups/mockup6.png)
+
+![mockup7.png](../assets/chapter04/Landing%20Page%20Mockups/mockup7.png)
+
+![mockup8.png](../assets/chapter04/Landing%20Page%20Mockups/mockup8.png)
+
+![mockup9.png](../assets/chapter04/Landing%20Page%20Mockups/mockup9.png)
+
+![mockup10.png](../assets/chapter04/Landing%20Page%20Mockups/mockup10.png)
+
+![mockup11.png](../assets/chapter04/Landing%20Page%20Mockups/mockup11.png)
+
 
 ## 4.4. Web Applications UX/UI Design
 
