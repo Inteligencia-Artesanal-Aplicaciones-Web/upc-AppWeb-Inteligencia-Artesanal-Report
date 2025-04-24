@@ -63,9 +63,10 @@ De acuerdo al rubro al que está orientado OsitoPolar, los colores deben refleja
 
 Sin embargo, la variación de botones y fondos que tendrá la plataforma hace que no siempre se elija la misma tonalidad, por lo que optamos por una paleta de celeste. 
 
-![Sky_blue-color-Web Style Guidelines.png](../assets/chapter04/Sky_blue-color-Web%20Style%20Guidelines.png)
+![Sky_blue-color-Web Style Guidelines.png](../assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png)
 
 De la misma forma se opta por una paleta de rojo claro para diferenciar ventanas, fondos o íconos que muestren algún tipo de error en el sistema, alertas o estados.
+
 
 ![Red-color-Web Style Guidelines.png](../assets/chapter04/Red-color-Web%20Style%20Guidelines.png)
 
@@ -233,7 +234,6 @@ Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y or
 ![Notificaciones-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
 ![Registro-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
 ![Registro-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
-![Sky_blue-color-Web Style Guidelines.png](../assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png)
 ![Solicitudes-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
 ![ÓrdenesDeTrabajo-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/%C3%93rdenesDeTrabajo-Empresa.png)
 
