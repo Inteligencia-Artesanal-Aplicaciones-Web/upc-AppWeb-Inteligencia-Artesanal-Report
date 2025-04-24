@@ -192,6 +192,29 @@ El Landing Page Mock-up de OsitoPolar muestra un diseño limpio y organizado, co
 
 Los wireframes de las aplicaciones web de OsitoPolar delinean la estructura y organización de las pantallas principales, especificando la ubicación de los elementos de la interfaz de usuario y la navegación. Estos esquemas visuales sirven como una guía precisa para el diseño final, asegurando una experiencia de usuario fluida e intuitiva. Los wireframes están enfocados en la funcionalidad y facilidad de uso, permitiendo que diseñadores y desarrolladores visualicen cómo los usuarios interactúan con la aplicación, optimizando la disposición de los elementos para crear una experiencia eficiente y atractiva.
 
+![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/AlquilarEquipos-Clientes.png)
+![Contacto-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Clientes.png)
+![Contacto-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Contacto-Empresa.png)
+![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Clientes.png)
+![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/EstadoCuenta-Empresa.png)
+![Inicio-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Clientes.png)
+![Inicio-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio-Empresa.png)
+![Inicio App.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20App.png)
+![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Clientes.png)
+![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Inicio%20Sesion%20-%20Empresa.png)
+![MiCuenta-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Clientes.png)
+![MiCuenta-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MiCuenta-Empresa.png)
+![MiEquipo-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MiEquipo-Clientes.png)
+![MisClientes,Técnicos-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MisClientes%2CT%C3%A9cnicos-Empresa.png)
+![MisEquipos-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Clientes.png)
+![MisEquipos-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/MisEquipos-Empresa.png)
+![Notificaciones-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Clientes.png)
+![Notificaciones-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Notificaciones-Empresa.png)
+![Registro-Clientes.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Clientes.png)
+![Registro-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Registro-Empresa.png)
+![Sky_blue-color-Web Style Guidelines.png](../assets/chapter04/Web%20Apps%20Wireframes/Sky_blue-color-Web%20Style%20Guidelines.png)
+![Solicitudes-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/Solicitudes-Empresa.png)
+![ÓrdenesDeTrabajo-Empresa.png](../assets/chapter04/Web%20Apps%20Wireframes/%C3%93rdenesDeTrabajo-Empresa.png)
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams
@@ -200,43 +223,80 @@ En esta sección se presentan los Wireflows para cada objetivo del usuario, teni
 ### **Registro y Perfil de Empresa**:
 Este flujo de usuario corresponde al proceso de registro de una nueva empresa. En este flujo, el usuario ingresa la información empresarial, como nombre de la empresa y datos de contacto. Al completar el registro, la empresa pasa a estar registrada en la plataforma, con acceso a todas las funcionalidades de gestión de equipos.
 
+![RegistroyPerfilEmpresa.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/RegistroyPerfilEmpresa.png)
 
 ### **Gestión de Usuario**:
 Este flujo de usuario describe las acciones para que el usuario se registre, inicie sesión, vea su perfil y edite su información personal. El objetivo es mantener actualizados los datos del usuario y facilitar el acceso a sus funcionalidades.
 
+![Gestion de Usuario.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gestion%20de%20Usuario.png)
 
 ### **Visualización de Equipos**:
 En este flujo, el usuario ve un resumen de todos los equipos registrados en su cuenta. Puede ver el estado de los equipos y obtener detalles de cada uno, como su mantenimiento.
 
+![Visualización de Equipos.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20Equipos.png)
 
 ### **Gestión de Solicitudes**:
 Este flujo permite a las empresas gestionar las solicitudes que realizan los clientes para obtener servicios o equipos adicionales. La empresa puede **aceptar** o **negar** solicitudes.
 
+![Gestión de Solicitudes.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Gesti%C3%B3n%20de%20Solicitudes.png)
 
 ### **Visualización de Mantenimientos**:
 Este flujo permite al usuario ver los mantenimientos pendientes para los equipos. Las empresas pueden agendar o realizar un mantenimiento directamente desde esta vista.
 
+![Visualización de MantenimientosEmpr.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Visualizaci%C3%B3n%20de%20MantenimientosEmpr.png)
 
 ### **Notificaciones**:
 Este flujo gestiona las notificaciones que se muestran al usuario, como alertas de mantenimiento, solicitudes aceptadas o rechazadas, y otros eventos importantes.
 
-
+![Notificaciones.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Notificaciones.png)
 
 ### **Cambio de Plan de Suscripción**:
 Este flujo permite a los usuarios cambiar el plan de suscripción para ajustarse a sus necesidades de equipos o servicios. Los usuarios pueden seleccionar entre diferentes planes según la cantidad de equipos o características que necesiten.
 
+![Cambio de Plan de Suscripción.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Cambio%20de%20Plan%20de%20Suscripci%C3%B3n.png)
 
+### **Ordenes de trabajo**:
+Este flujo permite a las empresas gestionar las órdenes de trabajo generadas por los clientes, de igual manera se puede visualizar si el trabajo ha sido realizado.
+
+![Ordenes de trabajo Empresa.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Ordenes%20de%20trabajo%20Empresa.png)
+
+### **Mi Equipo y Monitoreo en tiempo real**:
+Este flujo permite a los clientes visualizar el estado de su equipo en tiempo real, así como los mantenimientos realizados y las alertas generadas. Los usuarios pueden ver el historial de consumo energético y recibir notificaciones sobre el estado del equipo.
+
+![Mi Equipo y Monitoreo Clientes.png](../assets/chapter04/Web%20Applications%20Wireflow%20Diagrams/Mi%20Equipo%20y%20Monitoreo%20Clientes.png)
 
 #### 4.4.3. Web Applications Mock-ups
 En esta sección se presentan y detallan los mock-ups de las aplicaciones de OsitoPolar. Se resalta la aplicación de los principios de diseño, la arquitectura de la información, el diseño inclusivo y el Design System implementado en los productos digitales. Cada mock-up muestra cómo estos conceptos se integran en la interfaz de usuario. A continuación, se mostrarán las maquetas de la aplicación web, que representan visualmente cómo se verá y funcionará la plataforma OsitoPolar. Estas maquetas son fundamentales para comunicar el diseño a los desarrolladores y clientes, asegurando que la experiencia del usuario se alinee con la visión del proyecto.
 
-
+![AlquilarEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/AlquilarEquipos-Clientes.png)
+![Contacto-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Clientes.png)
+![Contacto-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Contacto-Empresa.png)
+![EstadoCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Clientes.png)
+![EstadoCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/EstadoCuenta-Empresa.png)
+![Inicio-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Clientes.png)
+![Inicio-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio-Empresa.png)
+![Inicio App.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20App.png)
+![Inicio Sesion - Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Clientes.png)
+![Inicio Sesion - Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Inicio%20Sesion%20-%20Empresa.png)
+![MiCuenta-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Clientes.png)
+![MiCuenta-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MiCuenta-Empresa.png)
+![MiEquipo-Clientes .png](../assets/chapter04/Web%20Applications%20Mock-ups/MiEquipo-Clientes%20.png)
+![MisClientes,Técnicos-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisClientes%2CT%C3%A9cnicos-Empresa.png)
+![MisEquipos-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Clientes.png)
+![MisEquipos-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/MisEquipos-Empresa.png)
+![Notificaciones-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Clientes.png)
+![Notificaciones-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Notificaciones-Empresa.png)
+![Registro-Clientes.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Clientes.png)
+![Registro-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Registro-Empresa.png)
+![Solicitudes-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/Solicitudes-Empresa.png)
+![ÓrdenesDeTrabajo-Empresa.png](../assets/chapter04/Web%20Applications%20Mock-ups/%C3%93rdenesDeTrabajo-Empresa.png)
 
 Link de los mockups: https://www.figma.com/design/flGQQP3T3S1hLfh0I72Exj/Aplicaciones-Web?node-id=2313-3&t=UphT97uJSGQzmQl1-1
 
 #### 4.4.4. Web Applications User Flow Diagrams
 A continuación un diagrama que representa los user goals.
 
+![Web Applications User Flow Diagrams.png](../assets/chapter04/Web%20Applications%20User%20Flow%20Diagrams.png)
 
 ### 4.5. Web Applications Prototyping
 A continuación se presenta el prototipo de la aplicación web de OsitoPolar, el cual permite a los usuarios interactuar con la interfaz y explorar las diversas secciones de la plataforma. Este prototipo incluye las funcionalidades clave y características de la aplicación, proporcionando una vista preliminar de la experiencia del usuario. Además, facilita la evaluación y prueba de la interfaz antes de su implementación final, asegurando que el diseño sea intuitivo y eficiente.
