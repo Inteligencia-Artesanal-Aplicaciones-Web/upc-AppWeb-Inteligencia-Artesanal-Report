@@ -68,7 +68,33 @@ Para el despliegue de la Landing Page se utilizó GitHub Pages, una herramienta 
 
 
 #### 5.1.2. Source Code Management
+
+Modelo de ramas Git Flow: main: rama principal donde siempre está el código estable y listo para producción. develop: rama de desarrollo donde se integran todas las nuevas funcionalidades antes de pasar a producción. feature/: ramas para trabajar nuevas funcionalidades. release/: ramas temporales para preparar una nueva versión estable. hotfix/: ramas para corregir errores en producción.
+
+Versionado semántico (Semantic Versioning): Se aplicará el versionado semántico (Semantic Versioning 2.0.0), siguiendo el esquema: MAJOR.MINOR.PATCH.
+1.0.0 → versión estable inicial
+
+1.1.0 → agregaste nuevas funcionalidades
+
+1.1.1 → arreglos de bugs
+
+Convención de mensajes de commits El equipo seguirá la convención de mensajes de commits definida en “Conventional Commits”.
+Ejemplos de mensajes:
+
+- feat: agregar nuevo sistema de login
+- fix: corregir validación en formulario de registro
+- docs: actualizar README con instrucciones de despliegue
+
+Nomenclatura de numeración de las versiones: Major changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior. Minor changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica Patch: Cuando se solucionan bugs menores.
+
+Sufijos asignados a las versiones: -alpha: versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha. -beta: versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta. -rc: versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
+
+
+
 #### 5.1.3. Source Code Style Guide & Conventions
+
+
+
 #### 5.1.4. Software Deployment Configuration
 ### 5.2. Landing Page, Services & Applications Implementation
 #### 5.2.1. Sprint 1
