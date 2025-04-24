@@ -324,11 +324,13 @@ Este diagrama representa los componentes encargados de la gestión de equipos. L
 ![OsitoPolar-Component-MiEquipo.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-MiEquipo.png)
 
 **Notificaciones Bounded Context**
+
 Este diagrama describe los componentes que gestionan las notificaciones, esenciales para mantener a los usuarios informados sobre el estado de los equipos y otros eventos importantes.
 
 ![OsitoPolar-Component-Notificaciones.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-Notificaciones.png)
 
 **Ordenes de trabajo Bounded Context**
+
 Este diagrama se centra en la gestión de las órdenes de trabajo. Aquí se muestran los componentes involucrados en el proceso de crear, gestionar y completar órdenes de trabajo.
 
 ![OsitoPolar-Component-OrdenesTrabajo.png](../assets/chapter04/Domain-Driven%20Software%20Architecture/OsitoPolar-Component-OrdenesTrabajo.png)
