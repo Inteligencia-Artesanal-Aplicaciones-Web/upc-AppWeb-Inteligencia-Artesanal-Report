@@ -361,12 +361,84 @@ En esta sección se presenta el diseño de software orientado a objetos para Osi
 
 #### 4.7.1. Class Diagrams
 
+El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
+
+![Clase UML.png](../assets/chapter04/Software-Object-oriented-design/Clase%20UML.png)
 
 #### 4.7.2. Class Dictionary
 
+## Clase: Solicitud
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name_equipo         | Almacena el nombre del equipo solicitado. | Equipo |
+| 2  | name_usuario        | Almacena el nombre del usuario que realiza la solicitud. | Usuario |
+| 3  | orden               | Almacena el número de orden de la solicitud. | unsigned long int |
+| 4  | description         | Almacena la descripción de la solicitud. | varchar |
+| 5  | time                | Almacena el tiempo estimado o requerido. | float |
+| 6  | status              | Almacena el estado de la solicitud. | char |
 
+## Clase: Equipo
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name                | Almacena el nombre del equipo. | string |
+| 2  | cost                | Almacena el costo del equipo. | float |
+| 3  | details_tecnicos    | Almacena detalles técnicos del equipo. | varchar |
+| 4  | serie               | Almacena el número de serie del equipo. | unsigned long int |
+| 5  | code                | Almacena el código del equipo. | unsigned long int |
+| 6  | status              | Almacena el estado del equipo. | char |
+| 7  | notes               | Almacena notas adicionales del equipo. | varchar |
+
+## Clase: Cliente
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name                | Almacena el nombre del cliente. | string |
+| 2  | email               | Almacena el correo del cliente. | string |
+| 3  | password            | Almacena la contraseña del cliente. | string |
+| 4  | username            | Almacena el nombre de usuario del cliente. | string |
+| 5  | phone               | Almacena el teléfono del cliente. | string |
+| 6  | user_type           | Almacena el tipo de usuario. | char |
+
+## Clase: Company
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name                | Almacena el nombre de la empresa. | string |
+| 2  | email               | Almacena el correo electrónico de la empresa. | string |
+| 3  | password            | Almacena la contraseña de la empresa. | string |
+| 4  | username            | Almacena el nombre de usuario de la empresa. | string |
+| 5  | plan                | Almacena el tipo de plan que posee la empresa. | char |
+| 6  | phone               | Almacena el teléfono de contacto de la empresa. | string |
+| 7  | business_type       | Almacena el tipo de negocio de la empresa. | char |
+| 8  | location            | Almacena la ubicación física de la empresa. | string |
+
+##  Clase: Cuenta
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name (company)      | Almacena el nombre de la empresa asociada. | Company |
+| 2  | name (usuario)      | Almacena el nombre del usuario asociado. | Usuario |
+| 3  | cost                | Almacena el costo del equipo vinculado a la cuenta. | Equipo |
+| 4  | status              | Almacena el estado de la cuenta. | char |
+
+##  Clase: Mantenimiento
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name                | Almacena el nombre del equipo en mantenimiento. | Equipo |
+| 2  | status              | Almacena el estado del mantenimiento. | char |
+
+##  Clase: Notificación
+| Nº | Nombre de atributo | Descripción | Tipo de dato |
+|----|---------------------|-------------|--------------|
+| 1  | name                | Almacena el nombre de la notificación. | varchar |
+| 2  | description         | Almacena la descripción de la notificación. | varchar |
+| 3  | name_company        | Almacena el nombre de la empresa asociada a la notificación. | Company |
+| 4  | name_cliente        | Almacena el nombre del cliente destinatario. | Cliente |
+| 5  | status              | Indica si la notificación ha sido leída o procesada. | bool |
 
 ### 4.8. Database Design
 
+Esta sección presenta la estructura lógica del sistema desde el punto de vista de almacenamiento y organización de los datos. Se describen las entidades principales del sistema, sus atributos, tipos de datos y relaciones entre ellas. El modelo de base de datos ha sido diseñado para garantizar integridad, consistencia y eficiencia en el acceso a la información.
+
 #### 4.8.1. Database Diagram
 
+El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes (uno a uno, uno a muchos o muchos a muchos).
+
+![diagrama-clase.png](../assets/chapter04/diagrama-clase.png)
