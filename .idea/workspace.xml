@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86b95e0-2fd7-4b4e-b32e-8973f3f39ca3" name="Changes" comment="updated README.md.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +29,13 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report.git",
-    "accountId": "a415f0df-92ec-411b-a113-f1246c8c32da"
+    "accountId": "f6e5c7d2-e914-46de-947d-fc1bc1871444"
   }
 }]]></component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -53,6 +52,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "chapter1",
     "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,6 +79,7 @@
       <workItem from="1745643446358" duration="231000" />
       <workItem from="1745643682207" duration="119000" />
       <workItem from="1745691238172" duration="680000" />
+      <workItem from="1745696164648" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="added the entire chapter 2.">
       <option name="closed" value="true" />

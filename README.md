@@ -28,9 +28,9 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor        | Descripción de modificación         |
-|---------|-------------|--------------|-------------------------------------|
-| 0.1     |             |              |                                     |
+| Versión | Fecha | Autor                                                                                                                                                   | Descripción de modificación                         |
+|---------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| 0.1     | 0.1   | -Aliaga Urbina Wilder Gonzalo -Ramírez Cabrera Kenyi Efraín -Rodriguez Parco Joseph Pablo - Rojas Reategui Victor Manuel- Verona Flores Italo Sebastián | Desarrollo de los capitulos 1, 2 , 3 , 4 , 5.1, 5.2 |
 
 ## Project Report Collaboration Insights
 URL de la organización del proyecto:
@@ -153,19 +153,23 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>
-      1. Se elaboraron de manera coordinada los entregables de Software Object-Oriented Design, Class Diagrams y Class Dictionary, dividiendo responsabilidades de forma equilibrada y asegurando retroalimentación continua entre los miembros.
+TB1 - Italo verona - Se elaboraron de manera coordinada los entregables asegurando retroalimentación continua entre los miembros.
+
+TB1 - Wilder Gonzalo Aliaga Urbina - Realizó en la identificación de los competidores.
     </td>
     <td>
-      1. La colaboración permitió que el equipo asumiera el liderazgo en diferentes momentos según las fortalezas individuales, mejorando la calidad de las entregas y fortaleciendo la confianza mutua.
+TB1 - Italo Verona - La colaboración permitió que el equipo asumiera el liderazgo en diferentes momentos según las fortalezas individuales, mejorando la calidad de las entregas y fortaleciendo la confianza mutua.
     </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-      1. Se organizó la creación del Database Diagram y el Product Backlog mediante planificación conjunta, estableciendo plazos claros y distribuyendo tareas de forma inclusiva para asegurar la participación de todos.
+TB1 - Italo Verona - Se organizó mediante planificación conjunta, estableciendo plazos claros y distribuyendo tareas.
+
+TB1 - Wilder Gonzalo Aliaga Urbina -  Realizó los mockups de la app web y DDD.
     </td>
     <td>
-      1. La planificación y colaboración lograron que los entregables se completaran de manera eficiente, respetando los tiempos establecidos y manteniendo una comunicación abierta que impulsó el cumplimiento de los objetivos.
+      TB1 - Italo Verona - La planificación y colaboración lograron que los entregables se completaran de manera eficiente, respetando los tiempos establecidos y manteniendo una comunicación abierta que impulsó el cumplimiento de los objetivos.
     </td>
   </tr>
 </table>
