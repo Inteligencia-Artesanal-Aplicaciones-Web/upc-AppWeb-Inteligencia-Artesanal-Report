@@ -442,3 +442,4 @@ Esta sección presenta la estructura lógica del sistema desde el punto de vista
 El diagrama de base de datos ilustra gráficamente cómo se relacionan las tablas dentro del sistema, incluyendo sus claves primarias, claves foráneas y los tipos de relaciones existentes (uno a uno, uno a muchos o muchos a muchos).
 
 ![diagrama-clase.png](../assets/chapter04/diagrama-clase.png)
+
