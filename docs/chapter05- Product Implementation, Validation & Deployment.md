@@ -233,6 +233,13 @@ La página se pudo mejorar adaptandolo a modo responsive y garantizando una expe
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 ##### 5.2.1.3. Sprint Backlog 1
 
+El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
+
+![Trello-SprintBacklog1.png](../assets/chapter-05/Trello-SprintBacklog1.png)
+
+Enlace: https://trello.com/b/xAOjqyPz/inteligenciaartesanal-ositopolar
+
+
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
@@ -243,75 +250,186 @@ La página se pudo mejorar adaptandolo a modo responsive y garantizando una expe
     <td colspan="10">Work-Item/Task</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation (Hours)</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To do/ In-Process/ To-Review/ Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US-23</td>
+    <td colspan="2">Visualizar propuesta de valor principal</td>
+    <td colspan="1">UT-01</td>
+    <td colspan="2">Crear la sección 'Hero'</td>
+    <td colspan="3">Añadir la sección donde se muestra nuestra propuesta de valor principal y las entidades que confían en nosotros</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Victor Rojas</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US-23</td>
+    <td colspan="2">Visualizar propuesta de valor principal</td>
+    <td colspan="1">UT-02</td>
+    <td colspan="2">Añadir estilos CSS</td>
+    <td colspan="3">Aplicar estilos según el diseño aprobado</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Wilder Gonzalo Aliaga</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US-23</td>
+    <td colspan="2">Visualizar propuesta de valor principal</td>
+    <td colspan="1">UT-03</td>
+    <td colspan="2">Añadir interacciones con JS</td>
+    <td colspan="3">Agregar efectos y validaciones según el diseño</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Victor Rojas</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US-24</td>
+    <td colspan="2">Explorar soluciones específicas para mi rubro</td>
+    <td colspan="1">UT-04</td>
+    <td colspan="2">Crear la sección 'Beneficios'</td>
+    <td colspan="3">Añadir la sección donde se visualizan las soluciones específicas a cada segmento (beneficios) </td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Kenyi Ramírez</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US-24</td>
+    <td colspan="2">Explorar soluciones específicas para mi rubro</td>
+    <td colspan="1">UT-05</td>
+    <td colspan="2">Añadir estilos CSS</td>
+    <td colspan="3">Aplicar estilos según el diseño aprobado de 'Beneficios'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Wilder Gonzalo Aliaga</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US-24</td>
+    <td colspan="2">Explorar soluciones específicas para mi rubro</td>
+    <td colspan="1">UT-06</td>
+    <td colspan="2">Añadir interacciones con JS</td>
+    <td colspan="3">Agregar efectos y validaciones según el diseño de 'Beneficios'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Victor Rojas</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US-25</td>
+    <td colspan="2">Comprender funcionalidades destacadas</td>
+    <td colspan="1">UT-07</td>
+    <td colspan="2">Crear la sección 'Funcionalidades'</td>
+    <td colspan="3">Añadir la sección donde se visualizan las funciones principales de la plataforma</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Italo Verona</td>
     <td colspan="1">Done</td>
 </tr>
+<tr>
+    <td colspan="1">US-25</td>
+    <td colspan="2">Comprender funcionalidades destacadas</td>
+    <td colspan="1">UT-08</td>
+    <td colspan="2">Añadir estilos CSS</td>
+    <td colspan="3">Aplicar estilos según el diseño aprobado de 'Funcionalidades'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Wilder Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-25</td>
+    <td colspan="2">Comprender funcionalidades destacadas</td>
+    <td colspan="1">UT-09</td>
+    <td colspan="2">Añadir interacciones con JS</td>
+    <td colspan="3">Agregar efectos y validaciones según el diseño de 'Funcionalidades'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-26</td>
+    <td colspan="2">Solicitar una demo fácilmente</td>
+    <td colspan="1">UT-10</td>
+    <td colspan="2">Crear la sección 'Solicitar Demo'</td>
+    <td colspan="3">Añadir la sección donde se puede solicitar una demo de nuestra plataforma</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Kenyi Ramírez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-26</td>
+    <td colspan="2">Solicitar una demo fácilmente</td>
+    <td colspan="1">UT-11</td>
+    <td colspan="2">Añadir estilos CSS</td>
+    <td colspan="3">Aplicar estilos según el diseño aprobado de 'Solicitar demo'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Wilder Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-26</td>
+    <td colspan="2">Solicitar una demo fácilmente</td>
+    <td colspan="1">UT-12</td>
+    <td colspan="2">Añadir interacciones con JS</td>
+    <td colspan="3">Agregar efectos y validaciones según el diseño de 'Solicitar demo'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-27</td>
+    <td colspan="2">Conocer misión y visión de la startup</td>
+    <td colspan="1">UT-13</td>
+    <td colspan="2">Crear la sección 'Nosotros'</td>
+    <td colspan="3">Añadir la sección donde se visualiza la misión y visión de nuestra startup</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Italo Verona</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-27</td>
+    <td colspan="2">Conocer misión y visión de la startup</td>
+    <td colspan="1">UT-14</td>
+    <td colspan="2">Añadir estilos CSS</td>
+    <td colspan="3">Aplicar estilos según el diseño aprobado de 'Nosotros'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Wilder Gonzalo Aliaga</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-27</td>
+    <td colspan="2">Conocer misión y visión de la startup</td>
+    <td colspan="1">UT-15</td>
+    <td colspan="2">Añadir interacciones con JS</td>
+    <td colspan="3">Agregar efectos y validaciones según el diseño de 'Nosotros'</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Victor Rojas</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-00</td>
+    <td colspan="2">-</td>
+    <td colspan="1">NT-16</td>
+    <td colspan="2">Implementar cambio de idioma</td>
+    <td colspan="3">Implementar la funcionalidad de cambio de idioma en la landing page</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US-00</td>
+    <td colspan="2">-</td>
+    <td colspan="1">NT-17</td>
+    <td colspan="2">Añadir imágenes complementarias</td>
+    <td colspan="3">Agregar imágenes complementarias en las diferentes secciones del landing page</td>
+    <td colspan="1">0.5</td>
+    <td colspan="2">Joseph Rodríguez</td>
+    <td colspan="1">Done</td>
+</tr>
+
 </table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
