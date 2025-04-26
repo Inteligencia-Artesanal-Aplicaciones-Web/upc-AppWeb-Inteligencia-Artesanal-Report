@@ -176,6 +176,60 @@ En la sección siguiente se detallará el proceso de implementación, documentac
 
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
+<table>
+<tr>
+    <th colspan="5">Sprint 1</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-04-22</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">9:45 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Kenyi Ramirez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Joseph Rodriguez, Wilder Aliaga, Victor Rojas, Italo Verona</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">Esta sección se dedicó a mejorar el codigo de la Landing page para poder usarse mejor y tener una estructura clara.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">En esta sección tuvimos varios aciertos ya que hubieron ideas para integrar lo de los idiomas bastante convicentes pero nos quedamos con una en especifica, poniendo a prueba nuestra resolución de problemas.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">Mejorar la base de Landing page que teníamos y que tuviera las imágenes más correctas posibles, de manera que se viera todo integrado de manera órganica, con texto con correcto espaciado y la funcionalidad importantísima de cambiar de idioma con un botón fue imprescindible reunirnos por ello.
+La página se pudo mejorar adaptandolo a modo responsive y garantizando una experiencia limpia y fluida.</td>
+
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">15</td>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">29</td>
+</tr>
+</table>
+
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 ##### 5.2.1.3. Sprint Backlog 1
 ##### 5.2.1.4. Development Evidence for Sprint Review
