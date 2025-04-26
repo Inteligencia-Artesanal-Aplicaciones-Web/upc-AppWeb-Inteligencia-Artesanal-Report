@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86b95e0-2fd7-4b4e-b32e-8973f3f39ca3" name="Changes" comment="" />
+    <list default="true" id="e86b95e0-2fd7-4b4e-b32e-8973f3f39ca3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/chapter01/Gonzalo-Aliaga-picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter01/Italo-Verona-Picture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter01/Joseph-Rodriguez-Picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter01/Kenyi-Ramirez-Picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter01/Victor-Rojas-Picture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/As-is-Scenario-segment-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/EmpathyMap-segment-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/EmpathyMap-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/Interview-1-segment-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/Interview-1-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/Interview-2-segment-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/Interview-2-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/Interview-3-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/JourneyMap-segment-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/JourneyMap-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/UserPersona-Carolina_Garcia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/UserPersona-Luis-Rojas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/pie_chart-1-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/pie_chart-2-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/pie_chart-3-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/pie_chart-4-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/pie_chart-5-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter02/pie_chart-6-segment-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter03/Product-Backlog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/chapter03/To-Be-Scenario-segment-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter01-Introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter02-Requirements Elicitation &amp; Analysis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter03-Requirements Specification.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +42,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/chapter-03" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,12 +53,12 @@
     &quot;assignee&quot;: &quot;VRojas1603&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report.git&quot;,
-    &quot;accountId&quot;: &quot;6900a899-03d2-447f-917d-69233a879fc6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report.git",
+    "accountId": "bdc50c65-19d7-47bf-b483-043832ea1625"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -44,7 +73,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feature/chapter-05",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,6 +100,7 @@
       <workItem from="1745642223802" duration="1211000" />
       <workItem from="1745643446358" duration="231000" />
       <workItem from="1745643682207" duration="119000" />
+      <workItem from="1745691533554" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="added the entire chapter 2.">
       <option name="closed" value="true" />
@@ -94,6 +124,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -106,8 +137,27 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added the entire chapter 2." />
     <MESSAGE value="updated README.md." />
     <option name="LAST_COMMIT_MESSAGE" value="updated README.md." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
