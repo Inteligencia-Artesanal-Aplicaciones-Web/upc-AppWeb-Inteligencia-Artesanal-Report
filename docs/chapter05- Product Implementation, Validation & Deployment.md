@@ -1,250 +1,3 @@
-<div align = "center">
- <h1>Universidad Peruana de Ciencias Aplicadas</h1>
- <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
-  <h2>Carrera: Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-1</h2>
-<br>
-  <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
-  <h2>Sección: 4378</h2>
-  <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
-<br>
- <h1>Informe TB1</h1>
-  <h2>Startup: OsitoPolar</h2>
-  <h2>Producto: Coolfreez</h2>
-<br>
-  <h2>Integrantes</h2>
-<ul style="list-style: none;">
-  <li><h3>U202222001 Aliaga Urbina Wilder Gonzalo</h3></li>
-  <li><h3>U202220138 Ramírez Cabrera Kenyi Efraín</h3></li>
-  <li><h3>U202223286 Rodriguez Parco Joseph Pablo</h3></li>
-  <li><h3>U202123655 Rojas Reategui Victor Manuel</h3></li>
-  <li><h3>U20221e617 Verona Flores Italo Sebastián</h3></li>
-</ul>
-<br>
-   <h3>Abril 2025</h3>
-
-</div>
-
-
-## Registro de Versiones del Informe
-
-| Versión | Fecha       | Autor        | Descripción de modificación         |
-|---------|-------------|--------------|-------------------------------------|
-| 0.1     |             |              |                                     |
-
-## Project Report Collaboration Insights
-URL de la organización del proyecto:
-
-
-URL del repositorio del informe del proyecto:
-
-## Contenido
-
-- [Student Outcome](#student-outcome)
-
-- [Capítulo I: Introducción](#c1)
-    - [1.1. Startup Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-    - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-- [Capítulo II: Requirements Elicitation & Analysis](#c2)
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Personas](#231-user-personas)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
-
-
-- [Capítulo III: Requirements Specification](#c3)
-    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [3.2. User Stories](#32-user-stories)
-    - [3.3. Impact Mapping](#33-impact-mapping)
-    - [3.4. Product Backlog](#34-product-backlog)
-
-
-- [Capítulo IV: Product Design](#c4)
-    - [4.1. Style Guidelines](#41-style-guidelines)
-        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-    - [4.2. Information Architecture](#42-information-architecture)
-        - [4.2.1. Organization Systems](#421-organization-systems)
-        - [4.2.2. Labeling Systems](#422-labeling-systems)
-        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-        - [4.2.4. Searching Systems](#424-searching-systems)
-        - [4.2.5. Navigation Systems](#425-navigation-systems)
-    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-        - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-        - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-        - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-        - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-        - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-        - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-        - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-        - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-        - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-        - [4.7.1. Class Diagrams](#471-class-diagrams)
-        - [4.7.2. Class Dictionary](#472-class-dictionary)
-    - [4.8. Database Design](#48-database-design)
-        - [4.8.1. Database Diagram](#481-database-diagram)
-
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#c5)
-    - [5.1. Software Configuration Management](#51-software-configuration-management)
-        - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-        - [5.1.2. Source Code Management](#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-        - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
-- [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
-
-## Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET:
-
-**ABET – EAC - Student Outcome 5**
-
-**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.*
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
-
-<table>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td>
-<br>
-<br>
-<br>
-<br>
-    <td>
-</td>
-  </tr>
-  <tr>
-    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>
-<br>
-<br>
-<br>
-    </td>
-    <td>
-</td>
-  </tr>
-</table>
-
-
-# Capitulo 1: Introducción
-
-## 1.1 Startup Profile
-### 1.1.1 Descripción de la Startup
-### 1.1.2 Perfiles de integrantes del equipo
-## 1.2 Solution Profile
-### 1.2.1 Antecedentes y Problematica
-### 1.2.2 Lean UX Process
-#### 1.2.2.1 Lean UX Problem Statements
-#### 1.2.2.2 Lean UX Assumption
-#### 1.2.2.2 Lean UX Hypothesis Statements
-#### 1.2.2.4 Lean UX Canvas
-## 1.3 Segmentos objetivos
-
-
-## Capítulo II: Requirements Elicitation & Analysis <a id="c2"></a>
-
-### 2.1. Competidores.
-#### 2.1.1. Análisis competitivo.
-#### 2.1.2. Estrategias y tácticas frente a competidores.
-### 2.2. Entrevistas.
-#### 2.2.1. Diseño de entrevistas.
-#### 2.2.2. Registro de entrevistas.
-#### 2.2.3. Análisis de entrevistas.
-### 2.3. Needfinding.
-#### 2.3.1. User Personas.
-#### 2.3.2. User Task Matrix.
-#### 2.3.3. User Journey Mapping.
-#### 2.3.4. Empathy Mapping.
-#### 2.3.5. As-is Scenario Mapping.
-### 2.4. Ubiquitous Language.
-
-
-## Capítulo III: Requirements Specification <a id="c3"></a>
-
-### 3.1. To-Be Scenario Mapping.
-### 3.2. User Stories.
-### 3.3. Impact Mapping.
-### 3.4. Product Backlog.
-
-
-## Capítulo IV: Product Design <a id="c4"></a>
-
-### 4.1. Style Guidelines
-#### 4.1.1. General Style Guidelines
-#### 4.1.2. Web Style Guidelines
-### 4.2. Information Architecture
-#### 4.2.1. Organization Systems
-#### 4.2.2. Labeling Systems
-#### 4.2.3. SEO Tags and Meta Tags
-#### 4.2.4. Searching Systems
-#### 4.2.5. Navigation Systems
-### 4.3. Landing Page UI Design
-#### 4.3.1. Landing Page Wireframe
-#### 4.3.2. Landing Page Mockup
-## 4.4. Web Applications UX/UI Design
-#### 4.4.1. Web Applications Wireframes
-#### 4.4.2. Web Applications Wireflow Diagrams
-#### 4.4.3. Web Applications Mock-ups
-#### 4.4.4. Web Applications User Flow Diagrams
-### 4.5. Web Applications Prototyping
-### 4.6 Domain Driven Software Architecture
-#### 4.6.1. Software Architecture Context Diagram
-#### 4.6.2. Software Architecture Container Diagrams
-#### 4.6.3. Software Architecture Components Diagrams
-### 4.7. Software Object-Oriented Design
-#### 4.7.1. Class Diagrams
-#### 4.7.2. Class Dictionary
-### 4.8. Database Design
-#### 4.8.1. Database Diagram
-
-
 ## Capítulo V: Product Implementation, Validation & Deployment <a id="c5"></a>
 
 ### 5.1. Software Configuration Management
@@ -301,7 +54,7 @@ Para descargar, instalar y actualizar fácilmente estas IDEs utilizamos la aplic
 
 ### Software Documentation
 Para el control de versiones y la colaboración en el desarrollo del informe, se utilizó GitHub siguiendo la estrategia de trabajo GitHub Flow. Esta metodología permitió una gestión eficiente y ordenada del proyecto mediante el uso de ramas específicas para cada funcionalidad o corrección, lo que facilitó el trabajo colaborativo. Todo el contenido del proyecto fue centralizado y almacenado en un repositorio dentro de una organización creada en GitHub.
-Para la documentación técnica del proyecto se optó por el uso de archivos en formato Markdown, debido a su simplicidad, legibilidad y excelente compatibilidad con GitHub.
+Para la documentación técnica del proyecto se optó por el uso de archivos en formato Markdown, debido a su simplicidad, legibilidad y excelente compatibilidad con GitHub. 
 
 **Enlaces**
 - GitHub: https://github.com/
@@ -407,14 +160,14 @@ Para desplegar la landing page, es necesario cumplir con ciertos requisitos prev
 Adicionalmente, se implementó un archivo "languages.js" que contiene los textos en español e inglés. Este archivo es consumido por el script "main.js", el cual permite realizar el cambio de idioma dinámicamente en la landing page.ations Implementation
 
 ### Github Pages:
-![Github-Pages.png](assets/chapter-05/Github-Pages.png)
+![Github-Pages.png](../assets/chapter-05/Github-Pages.png)
 
 La URL que nos entrega Github Pages para acceder a la landing page es la siguiente: https://inteligencia-artesanal-aplicaciones-web.github.io/Landing-Page/
 
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
-![Landing-Page.png](assets/chapter-05/Landing-Page.png)
+![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
 
 En el siguiente enlace se estará mostrando la landing page de la startup:
 [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
@@ -482,7 +235,7 @@ La página se pudo mejorar adaptandolo a modo responsive y garantizando una expe
 
 El objetivo principal de este Sprint es elaborar la Landing Page de nuestra plataforma OsitoPolar. Para ello, dividimos el desarrollo de esta según las User Stories pertenecientes a la Epic enfocada en Landing Page. La plataforma elegida para ser la herramienta de control de tareas fue Trello, el cuál se presenta una captura de pantalla de nuestro tablero y su enlace público.
 
-![Trello-SprintBacklog1.png](assets/chapter-05/Trello-SprintBacklog1.png)
+![Trello-SprintBacklog1.png](../assets/chapter-05/Trello-SprintBacklog1.png)
 
 Enlace: https://trello.com/b/xAOjqyPz/inteligenciaartesanal-ositopolar
 
@@ -797,27 +550,28 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
 
 - Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
-  ![Landing-Page.png](assets/chapter-05/Landing-Page.png)
+![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
+
 
 - Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
-  ![LandingPage-Evidence2.png](assets/chapter-05/LandingPage-Evidence2.png)
+![LandingPage-Evidence2.png](../assets/chapter-05/LandingPage-Evidence2.png)
 
 
 - Esta sección describe las funcionalidades claves principales de nuestra plataforma OsitoPolar.
-  ![LandingPage-Evidence3.png](assets/chapter-05/LandingPage-Evidence3.png)
+![LandingPage-Evidence3.png](../assets/chapter-05/LandingPage-Evidence3.png)
 
 
 - Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
-  ![LandingPage-Evidence4Neg.png](assets/chapter-05/LandingPage-Evidence4Neg.png)
-  ![LandingPage-Evidence4Tec.png](assets/chapter-05/LandingPage-Evidence4Tec.png)
+![LandingPage-Evidence4Neg.png](../assets/chapter-05/LandingPage-Evidence4Neg.png)
+![LandingPage-Evidence4Tec.png](../assets/chapter-05/LandingPage-Evidence4Tec.png)
 
 
 - También se encuentra la sección de nuestra misión y visión.
-  ![LandingPage-Evidence5.png](assets/chapter-05/LandingPage-Evidence5.png)
+![LandingPage-Evidence5.png](../assets/chapter-05/LandingPage-Evidence5.png)
 
 
 - Por último, está la sección donde podemos solicitar una demo.
-  ![LandingPage-Evidence6.png](assets/chapter-05/LandingPage-Evidence6.png)
+![LandingPage-Evidence6.png](../assets/chapter-05/LandingPage-Evidence6.png)
 
 
 - Para más detalles, visualizar el video: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
@@ -825,78 +579,6 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Durante este Sprint solo se realizó la Landing Page, no se han documentado nuevos Endpoints relacionados con el alcance definido, por lo tanto, no se dispone de documentación generada en OpenAPI para esta entrega.
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
-Durante el presente Sprint, se llevó a cabo el despliegue de la Landing Page del proyecto utilizando GitHub Pages como proveedor de hosting. Esta actividad forma parte del proceso de Deployment, siendo un primer paso en la publicación de productos desarrollados en este Sprint.
-
-**Pasos realizados**
-
-1. Iniciamos sesión en GitHub. En caso de no tener cuenta o querer trabajar con una nueva, nos registramos.
-![Deployment-step1.png](assets/chapter-05/Deployment-step1.png)
-
-
-2. Luego de iniciar sesión o registrarnos, seleccionamos a nuestro perfil de usuario y luego elegimos "Your organizations".
-![Deployment-step2-1.png](assets/chapter-05/Deployment-step2-1.png)
-![Deployment-step2-2.png](assets/chapter-05/Deployment-step2-2.png)
-
-
-3. En la nueva pestaña seleccionamos "New organization", luego seleccionamos el plan gratuito y finalmente rellenamos los datos para crear la organización
-![Deployment-step3-1.png](assets/chapter-05/Deployment-step3-1.png)
-
-
-4. Dentro de la organización seleccionamos "People" para invitar a los miembros del equipo.
-![Deployment-step4-1.png](assets/chapter-05/Deployment-step4-1.png)
-![Deployment-step4-2.png](assets/chapter-05/Deployment-step4-2.png)
-
-
-5. Luego de tener al equipo completo en la organización, creamos un nuevo repositorio. En nuestro caso tenemos solo dos repositorios por el momento, uno para el informe y el otro para el Landing Page. Nos dirigimos a este último.
-![Deployment-step5-1.png](assets/chapter-05/Deployment-step5-1.png)
-![Deployment-step5-2.png](assets/chapter-05/Deployment-step5-2.png)
-
-
-6. Al estar en el repositorio "Landing Page", nos dirigimos a settings y seleccionamos "pages" (1). Luego seleccionamos la rama y ruta en la que está el código que deseamos desplegar (2). Guardamos (3) y finalmente tendremos que esperar unos minutos para que el enlace esté disponible (4).
-![Deployment-step6-1.png](assets/chapter-05/Deployment-step6-1.png)
-![Deployment-step6-2.png](assets/chapter-05/Deployment-step6-2.png)
-
-7. Podemos visualizar el resultado.
-![Deployment-step7.png](assets/chapter-05/Deployment-step7.png)
-
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
-
-Durante este Sprint, el equipo ha colaborado activamente en el desarrollo de la Landing Page. Las actividades fueron gestionadas a través de GitHub, permitiendo una trazabilidad clara de los aportes de cada miembro del equipo. Se realizaron tareas de codificación, revisión, organización del repositorio y mejoras visuales y funcionales del producto.
-Cada miembro del equipo tuvo participación activa, realizando commits, revisando código, y apoyando en la estructura y documentación del proyecto.
-
-![Insights-LandingPage.png](assets/chapter-05/Insights-LandingPage.png)
-
-Contributors:
-
-![Contributors-LandingPage.png](assets/chapter-05/Contributors-LandingPage.png)
-
-
-## Conclusiones
-
-
-## Bibliografía
-
-- Cohn, M. (s.f.). User Stories Articles. Mountain Goat Software. Recuperado de https://www.mountaingoatsoftware.com/blog/tag/user-stories
-
-- UXPressia. (s.f.). User vs. Buyer Persona: Differences and Free Template. Recuperado de https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
-
-- Nielsen Norman Group. (s.f.). Front-End Style-Guides: Definition, Requirements, Component Checklist. Recuperado de https://www.nngroup.com/articles/front-end-style-guides/
-
-- Nielsen Norman Group. (s.f.). The Four Dimensions of Tone of Voice. Recuperado de https://www.nngroup.com/articles/tone-of-voice-dimensions/
-
-- Nvie. (s.f.). A Successful Git Branching Model. Recuperado de https://nvie.com/posts/a-successful-git-branching-model/
-
-- Preston-Werner, T. (s.f.). Semantic Versioning 2.0.0. Recuperado de https://semver.org/
-
-- Conventional Commits. (s.f.). Conventional Commits. Recuperado de https://www.conventionalcommits.org/
-
-- W3Schools. (s.f.). HTML Style Guide and Coding Conventions. Recuperado de https://www.w3schools.com/html/html5_syntax.asp
-
-- Google. (s.f.). Google HTML/CSS Style Guide. Recuperado de https://google.github.io/styleguide/htmlcssguide.html
-
-
-## Anexos
