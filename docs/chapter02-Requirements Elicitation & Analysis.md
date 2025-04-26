@@ -1,217 +1,6 @@
-<div align = "center">
- <h1>Universidad Peruana de Ciencias Aplicadas</h1>
- <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
-  <h2>Carrera: Ingeniería de Software</h2>
-  <h2>Ciclo: 2025-1</h2>
-<br>
-  <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
-  <h2>Sección: 4378</h2>
-  <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
-<br>
- <h1>Informe TB1</h1>
-  <h2>Startup: OsitoPolar</h2>
-  <h2>Producto: Coolfreez</h2>
-<br>
-  <h2>Integrantes</h2>
-<ul style="list-style: none;">
-  <li><h3>U202222001 Aliaga Urbina Wilder Gonzalo</h3></li>
-  <li><h3>U202220138 Ramírez Cabrera Kenyi Efraín</h3></li>
-  <li><h3>U202223286 Rodriguez Parco Joseph Pablo</h3></li>
-  <li><h3>U202123655 Rojas Reategui Victor Manuel</h3></li>
-  <li><h3>U20221e617 Verona Flores Italo Sebastián</h3></li>
-</ul>
-<br>
-   <h3>Abril 2025</h3>
-
-</div>
-
-
-## Registro de Versiones del Informe
-
-| Versión | Fecha       | Autor        | Descripción de modificación         |
-|---------|-------------|--------------|-------------------------------------|
-| 0.1     |             |              |                                     |
-
-## Project Report Collaboration Insights
-URL de la organización del proyecto:
-
-
-URL del repositorio del informe del proyecto:
-
-## Contenido
-
-- [Student Outcome](#student-outcome)
-
-- [Capítulo I: Introducción](#c1)
-    - [1.1. Startup Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-    - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-
-- [Capítulo II: Requirements Elicitation & Analysis](#c2)
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Personas](#231-user-personas)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-        - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
-
-
-- [Capítulo III: Requirements Specification](#c3)
-    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-    - [3.2. User Stories](#32-user-stories)
-    - [3.3. Impact Mapping](#33-impact-mapping)
-    - [3.4. Product Backlog](#34-product-backlog)
-
-
-- [Capítulo IV: Product Design](#c4)
-    - [4.1. Style Guidelines](#41-style-guidelines)
-        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
-    - [4.2. Information Architecture](#42-information-architecture)
-        - [4.2.1. Organization Systems](#421-organization-systems)
-        - [4.2.2. Labeling Systems](#422-labeling-systems)
-        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-        - [4.2.4. Searching Systems](#424-searching-systems)
-        - [4.2.5. Navigation Systems](#425-navigation-systems)
-    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-        - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-        - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
-    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-        - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-        - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-        - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-        - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-        - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-        - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-        - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
-    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-        - [4.7.1. Class Diagrams](#471-class-diagrams)
-        - [4.7.2. Class Dictionary](#472-class-dictionary)
-    - [4.8. Database Design](#48-database-design)
-        - [4.8.1. Database Diagram](#481-database-diagram)
-
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#c5)
-    - [5.1. Software Configuration Management](#51-software-configuration-management)
-        - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-        - [5.1.2. Source Code Management](#512-source-code-management)
-        - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-        - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
-
-=======
-          
-
-- [Conclusiones](#conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
-
-## Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET:
-
-**ABET – EAC - Student Outcome 5**
-
-**Criterio**: *La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.*
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
-
-<table>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-    <td>
-<br>
-<br>
-<br>
-<br>
-    <td>
-</td>
-  </tr>
-  <tr>
-    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>
-<br>
-<br>
-<br>
-    </td>
-    <td>
-</td>
-  </tr>
-</table>
-
-
-## Capítulo I: Introducción <a id="c1"></a>
-
-### 1.1. Startup Profile
-#### 1.1.1. Descripción de la Startup
-#### 1.1.2. Perfiles de integrantes del equipo
-
-### 1.2. Solution Profile
-#### 1.2.1 Antecedentes y problemática
-#### 1.2.2 Lean UX Process.
-##### 1.2.2.1. Lean UX Problem Statements.
-##### 1.2.2.2. Lean UX Assumptions.
-##### 1.2.2.3. Lean UX Hypothesis Statements.
-##### 1.2.2.4. Lean UX Canvas.
-### 1.3. Segmentos objetivo.
-
-
 ## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
 
 ### 2.1. Competidores
-
-#### 2.1.1. Análisis competitivo
-#### 2.1.2. Estrategias y tácticas frente a competidores
-### 2.2. Entrevistas.
-#### 2.2.1. Diseño de entrevistas
-#### 2.2.2. Registro de entrevistas
-#### 2.2.3. Análisis de entrevistas
-### 2.3. Needfinding.
-#### 2.3.1. User Personas.
-#### 2.3.2. User Task Matrix.
-#### 2.3.3. User Journey Mapping.
-#### 2.3.4. Empathy Mapping.
-#### 2.3.5. As-is Scenario Mapping.
-### 2.4. Ubiquitous Language.
-
-=======
 
 **Competidor 1: ServiceTitan**
 ServiceTitan es una plataforma de gestión de servicios basada en la nube que ofrece soluciones de software para empresas de servicios, incluidos técnicos de HVAC, fontaneros y electricistas. Proporciona funcionalidades de programación, gestión de trabajos, facturación y más. Esta plataforma es conocida por su facilidad de uso y por ayudar a las empresas a optimizar sus operaciones de servicio técnico en tiempo real.
@@ -340,7 +129,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 **1. Estrategias de Diferenciación:**
 
 - **Automatización y Mantenimiento Preventivo**: A diferencia de los competidores, **OsitoPolar** se enfoca en ofrecer una solución integral con monitoreo en tiempo real, alertas automáticas y un sistema de mantenimiento preventivo. Esto permite a los negocios reducir las incidencias por fallas inesperadas y gestionar sus equipos de refrigeración de manera proactiva.
-
+  
 - **Trazabilidad Completa de Equipos**: Ofrecemos una plataforma que proporciona un historial técnico detallado de cada equipo, algo que competidores como **ServiceTitan** no ofrecen de forma especializada para el sector de refrigeración. Esto garantiza un mayor control sobre los activos y la calidad del servicio.
 
 - **Interfaz Intuitiva y Fácil de Usar**: A diferencia de **CoolMaster**, que se centra más en el sector de refrigeración sin necesariamente pensar en la accesibilidad del usuario, **OsitoPolar** prioriza la simplicidad de uso, lo que facilita la adopción rápida por parte de los negocios y técnicos, independientemente de su experiencia tecnológica.
@@ -358,7 +147,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 **3. Estrategias de Precios:**
 
 - **Modelo Freemium**: Ofrecemos una versión básica gratuita para atraer a pequeños negocios y usuarios que no están seguros de pagar por un servicio premium de inmediato. Este modelo es más flexible que el de **ServiceTitan**, que depende de suscripciones pagadas desde el principio.
-
+  
 - **Comisiones Bajas por Reserva**: Para los negocios, aplicamos comisiones reducidas por cada cita reservada a través de nuestra plataforma, lo que facilita la adopción, especialmente en comparación con otros competidores como **CoolMaster**, que tiene costos fijos más elevados.
 
 ---
@@ -377,37 +166,37 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 
 **Segmento 1: Negocios que utilizan equipos de refrigeración**
 
-1. ¿Qué edad tiene?
-2. ¿De dónde es y a qué se dedica?
-3. ¿Qué tipo de negocio tiene y qué productos necesita mantener en frío?
-4. ¿Cuántos equipos de refrigeración tiene actualmente?
-5. ¿Ha tenido pérdidas por fallas en sus equipos? ¿Qué impacto tuvo?
-6. ¿Cómo monitorea hoy el estado (temperatura, consumo, fallas) de esos equipos?
-7. ¿Con qué frecuencia realiza mantenimiento y quién se encarga?
-8. ¿Utiliza alguna herramienta digital para la gestión de estos equipos?
-9. ¿Qué tan útil le parecería recibir alertas automáticas por fallas o variaciones de temperatura?
-10. ¿Le interesaría tener un historial técnico y reportes automáticos por cada equipo?
-11. ¿Estaría dispuesto a pagar una suscripción si esto evita pérdidas y mejora la eficiencia?
-12. ¿Qué funcionalidades sí o sí debería tener una herramienta de este tipo para que usted la use?
-13. ¿Preferiría acceder a la herramienta desde su celular o computadora?
+1. ¿Qué edad tiene? 
+2. ¿De dónde es y a qué se dedica? 
+3. ¿Qué tipo de negocio tiene y qué productos necesita mantener en frío? 
+4. ¿Cuántos equipos de refrigeración tiene actualmente? 
+5. ¿Ha tenido pérdidas por fallas en sus equipos? ¿Qué impacto tuvo? 
+6. ¿Cómo monitorea hoy el estado (temperatura, consumo, fallas) de esos equipos? 
+7. ¿Con qué frecuencia realiza mantenimiento y quién se encarga? 
+8. ¿Utiliza alguna herramienta digital para la gestión de estos equipos? 
+9. ¿Qué tan útil le parecería recibir alertas automáticas por fallas o variaciones de temperatura? 
+10. ¿Le interesaría tener un historial técnico y reportes automáticos por cada equipo? 
+11. ¿Estaría dispuesto a pagar una suscripción si esto evita pérdidas y mejora la eficiencia? 
+12. ¿Qué funcionalidades sí o sí debería tener una herramienta de este tipo para que usted la use? 
+13. ¿Preferiría acceder a la herramienta desde su celular o computadora? 
 14. ¿Qué le haría dejar de usar una aplicación de este tipo?
 
 
 **Segmento 2: Empresas proveedoras de servicios y equipos de refrigeración**
 
-1. ¿Qué edad tiene?
-2. ¿De dónde es?
-3. ¿A qué se dedica específicamente y hace cuánto trabaja en el rubro?
-4. ¿Cuántos clientes o negocios atiende regularmente?
-5. ¿Cómo organiza sus visitas técnicas y mantenimientos?
-6. ¿Lleva un historial técnico de los equipos que repara? ¿Cómo lo gestiona?
-7. ¿Cuáles son las principales dificultades que enfrenta su empresa al coordinar servicios técnicos?
-8. ¿Cómo coordina hoy sus rutas o visitas? ¿Utiliza alguna herramienta o lo hace manualmente?
-9. ¿Qué tan útil le sería tener una app donde pueda ver todos los equipos que provee o atiende?
-10. ¿Le interesaría recibir alertas sobre fallas en los equipos de sus clientes en el momento en el que suceden?
-11. ¿Qué tanto valora poder generar reportes automáticos y mantener trazabilidad de cada intervención?
-12. ¿Estaría dispuesto a usar una plataforma que le ayude a organizarse mejor y escalar su servicio?
-13. ¿Ha probado alguna solución parecida antes? ¿Por qué la dejó de usar (si la dejó)?
+1. ¿Qué edad tiene? 
+2. ¿De dónde es? 
+3. ¿A qué se dedica específicamente y hace cuánto trabaja en el rubro? 
+4. ¿Cuántos clientes o negocios atiende regularmente? 
+5. ¿Cómo organiza sus visitas técnicas y mantenimientos? 
+6. ¿Lleva un historial técnico de los equipos que repara? ¿Cómo lo gestiona? 
+7. ¿Cuáles son las principales dificultades que enfrenta su empresa al coordinar servicios técnicos? 
+8. ¿Cómo coordina hoy sus rutas o visitas? ¿Utiliza alguna herramienta o lo hace manualmente? 
+9. ¿Qué tan útil le sería tener una app donde pueda ver todos los equipos que provee o atiende? 
+10. ¿Le interesaría recibir alertas sobre fallas en los equipos de sus clientes en el momento en el que suceden? 
+11. ¿Qué tanto valora poder generar reportes automáticos y mantener trazabilidad de cada intervención? 
+12. ¿Estaría dispuesto a usar una plataforma que le ayude a organizarse mejor y escalar su servicio? 
+13. ¿Ha probado alguna solución parecida antes? ¿Por qué la dejó de usar (si la dejó)? 
 14. ¿Qué beneficios cree que podría tener la implementación de una solución digital como OsitoPolar a su empresa?
 
 ---
@@ -424,7 +213,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** San Martín de Porres
 
 
-- ![Interview-1-segment-1.png](assets/chapter02/Interview-1-segment-1.png)
+- ![Interview-1-segment-1.png](../assets/chapter02/Interview-1-segment-1.png)
 
 
 - **Inicio:** 0:02
@@ -440,35 +229,35 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Edad:** 37
 - **Distrito:** Comas
 
-![Interview-2-segment-1.jpg](assets/chapter02/Interview-2-segment-1.jpg)
+![Interview-2-segment-1.jpg](../assets/chapter02/Interview-2-segment-1.jpg)
 - **Inicio:** 0:25
 - **Duración:** 9:03 min
 - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EZpUpn4-Z8lEi6EC5ARiL_IBd8r8a3gLXm2QQ0OMfL59dw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=o03M2P
 - **Resumen:** Luis Mamani, es un emprendedor dueño de una cevichería muy bien calificada por los vecinos de Comas, ex trabajador coordinador de platos marinos en hoteles como el Sheraton, entre otros más, encargado de control de cocina en diversos restaurantes del Perú.
-  Actualmente, cuenta con equipos de refrigeración ya que para el rubro marino, todo debe estár en refrigeración, Luis recalca la diferencia entre refrigeración y congelación, porque en cevichería pocas cosas pueden estár congeladas, pero muchas pueden estár congeladas porque se toman como pérdidas.
-  Para Luis esta herramienta le ayudaría si tuviera que estár pendiente de muchos locales de cevicherías o así, ahora que él tiene un solo local, el se encarga de todo pero aclara la importancia que esto tiene a gran escala. Para Luis ahora el produto es interesante, está interesado en usarlo si tuviese garn escala.
-  Como ahora no lo tiene, quisiera usarlo para tener un control de los productos que tiene, y así no perderlos, ya que el ceviche es un producto muy delicado.
-  Luis menciona que no tiene un sistema de refrigeración, pero que le gustaría tenerlo, ya que ahora tiene un sistema de refrigeración, pero no tiene un sistema de monitoreo. Luis menciona que no tiene un sistema de monitoreo, pero que le gustaría tenerlo, ya que ahora tiene un sistema de monitoreo, pero no tiene un sistema de refrigeración.
-  Luis comenta que las empresas de refrigeración como avicolas, tienen estos sitemas pero no de manera tan sofiscticada como nuestra propuesta lo que realza valor en nuestro producto, que también dice que estarían dispuestos según su conocimiento a pagar, él también si tuviera una producción masiva.
+Actualmente, cuenta con equipos de refrigeración ya que para el rubro marino, todo debe estár en refrigeración, Luis recalca la diferencia entre refrigeración y congelación, porque en cevichería pocas cosas pueden estár congeladas, pero muchas pueden estár congeladas porque se toman como pérdidas.
+Para Luis esta herramienta le ayudaría si tuviera que estár pendiente de muchos locales de cevicherías o así, ahora que él tiene un solo local, el se encarga de todo pero aclara la importancia que esto tiene a gran escala. Para Luis ahora el produto es interesante, está interesado en usarlo si tuviese garn escala.
+Como ahora no lo tiene, quisiera usarlo para tener un control de los productos que tiene, y así no perderlos, ya que el ceviche es un producto muy delicado.
+Luis menciona que no tiene un sistema de refrigeración, pero que le gustaría tenerlo, ya que ahora tiene un sistema de refrigeración, pero no tiene un sistema de monitoreo. Luis menciona que no tiene un sistema de monitoreo, pero que le gustaría tenerlo, ya que ahora tiene un sistema de monitoreo, pero no tiene un sistema de refrigeración.
+Luis comenta que las empresas de refrigeración como avicolas, tienen estos sitemas pero no de manera tan sofiscticada como nuestra propuesta lo que realza valor en nuestro producto, que también dice que estarían dispuestos según su conocimiento a pagar, él también si tuviera una producción masiva.
 
 
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
 
 ---
-#### Entrevista 1:
+ #### Entrevista 1: 
 
-- **Nombres y apellidos:** Wilder Canchan
-- **Edad:** 45
-- **Distrito:** Los Olivos
-
-
-- ![Interview-1-segment-2.png](assets/chapter02/Interview-1-segment-2.png)
+  - **Nombres y apellidos:** Wilder Canchan
+  - **Edad:** 45
+  - **Distrito:** Los Olivos
 
 
-- **Inicio:** 0:43
-- **Duración:** 7:03 min
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/ES1Kw9TJaNZGszXWCTKRDwMBAXSTN5Xfq1nkndAnOnWqzA?e=4eLG4i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- **Resumen:** Wilder es un empresario con 7 años de experiencia en mantenimiento de equipos de refrigeración y aire acondicionado. Él atiende entre 20 a 25 clientes al mes, principalmente restaurantes, bares y bodegas. En cuanto a la atención al cliente, su empresa solo utiliza un número telefónico para coordinar las visitas técnicas. Una de las dificultades que enfrenta su empresa es la mala coordinación entre el cliente y el servidor de mantenimiento en cuanto al punto de llegada. Esto se debe a la imprecisión de la ubicación que brindan ciertas herramientas de software y el tráfico vehicular. Su equipo técnico utiliza Google Maps para planificar rutas. Wilder considera útil una aplicación que le ayude a mejorar la gestión de los equipos de mantenimiento y de los técnicos, con reportes de fallas en tiempo real y mejor comunicación con el cliente. Él cree que el impacto de una aplicación así sería muy positiva, pues mejoraría la precisión de los servicios y conseguiría la satisfacción de sus clientes.
+  - ![Interview-1-segment-2.png](../assets/chapter02/Interview-1-segment-2.png)
+
+
+  - **Inicio:** 0:43
+  - **Duración:** 7:03 min
+  - **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220138_upc_edu_pe/ES1Kw9TJaNZGszXWCTKRDwMBAXSTN5Xfq1nkndAnOnWqzA?e=4eLG4i&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  - **Resumen:** Wilder es un empresario con 7 años de experiencia en mantenimiento de equipos de refrigeración y aire acondicionado. Él atiende entre 20 a 25 clientes al mes, principalmente restaurantes, bares y bodegas. En cuanto a la atención al cliente, su empresa solo utiliza un número telefónico para coordinar las visitas técnicas. Una de las dificultades que enfrenta su empresa es la mala coordinación entre el cliente y el servidor de mantenimiento en cuanto al punto de llegada. Esto se debe a la imprecisión de la ubicación que brindan ciertas herramientas de software y el tráfico vehicular. Su equipo técnico utiliza Google Maps para planificar rutas. Wilder considera útil una aplicación que le ayude a mejorar la gestión de los equipos de mantenimiento y de los técnicos, con reportes de fallas en tiempo real y mejor comunicación con el cliente. Él cree que el impacto de una aplicación así sería muy positiva, pues mejoraría la precisión de los servicios y conseguiría la satisfacción de sus clientes.
 
 ---
 
@@ -479,7 +268,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** Comas
 
 
-- ![Interview-2-segment-2.png](assets/chapter02/Interview-2-segment-2.png)
+- ![Interview-2-segment-2.png](../assets/chapter02/Interview-2-segment-2.png)
 
 
 - **Inicio:** 0:30
@@ -497,7 +286,7 @@ Hemos identificado diversas estrategias y tácticas para diferenciarse y competi
 - **Distrito:** San Martín de Porres
 
 
-- ![Interview-3-segment-2.png](assets/chapter02/Interview-3-segment-2.png)
+- ![Interview-3-segment-2.png](../assets/chapter02/Interview-3-segment-2.png)
 
 
 - **Inicio:** 0:11
@@ -531,29 +320,29 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 
 **Análisis estadístico**
 
-![pie_chart-1-segment-2.png](assets/chapter02/pie_chart-1-segment-2.png)
+![pie_chart-1-segment-2.png](../assets/chapter02/pie_chart-1-segment-2.png)
 - Más del 50% de los empresarios tiene un número mayor a 10 años de experiencia en el rubro.
 
 ---
 
-![pie_chart-2-segment-2.png](assets/chapter02/pie_chart-2-segment-2.png)
+![pie_chart-2-segment-2.png](../assets/chapter02/pie_chart-2-segment-2.png)
 - Los empresarios tienen diferentes frecuencias de ciertas dificultades, a pesar de que tienen casi los mismos problemas.
 
 ---
-![pie_chart-3-segment-2.png](assets/chapter02/pie_chart-3-segment-2.png)
+![pie_chart-3-segment-2.png](../assets/chapter02/pie_chart-3-segment-2.png)
 - El 67% de los empresarios creen que el cliente es parcialmente causante de su problema de mayor frecuencia. Algunos de ellos han expresado su inconformidad respecto a los clientes que no explican bien las fallas de sus equipos.
 
 ---
 
-![pie_chart-4-segment-2.png](assets/chapter02/pie_chart-4-segment-2.png)
+![pie_chart-4-segment-2.png](../assets/chapter02/pie_chart-4-segment-2.png)
 - El 100% está interesado en recibir notificaciones sobre fallos que ocurren en equipos de refrigeración. Ellos creen que con dicha funcionalidad podrían hacer un mantenimiento preventivo más eficiente y lograr la satisfacción del cliente.
 
 ---
-![pie_chart-5-segment-2.png](assets/chapter02/pie_chart-5-segment-2.png)
+![pie_chart-5-segment-2.png](../assets/chapter02/pie_chart-5-segment-2.png)
 - Ni uno de los empresarios ha usado una plataforma digital que se asemeje a la que se muestran interesados. Ellos usaron aplicaciones para mejorar la eficiencia de su trabajo como WhatsApp y Maps o programas como Microsoft Excel. Sin embargo, estos no poseen todas las funcionalidades que necesitan.
 
 ---
-![pie_chart-6-segment-2.png](assets/chapter02/pie_chart-6-segment-2.png)
+![pie_chart-6-segment-2.png](../assets/chapter02/pie_chart-6-segment-2.png)
 - Cada empresario tiene una meta deseada de mayor prioridad diferente al resto a pesar de que todos ellos comparten los mismos deseos y esperan que una plataforma digital pueda ayudarles a obtenerlos.
 
 ---
@@ -564,9 +353,9 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 En esta sección se presentan las fichas de User Personas construidas a partir de los datos recogidos del análisis de entrevistas al segmento #1: "Negocios que utilizan equipos de refrigeración" y al segmento #2: "Empresas proveedoras de servicios y equipos de refrigeración". Estas fichas permiten representar de forma clara y estratégica los perfiles del segmento objetivo, considerando sus metas, habilidades, motivaciones y dificultades. Al integrar tanto la perspectiva del usuario como las tendencias del sector, estas representaciones sirven como una herramienta clave para el diseño de soluciones digitales centradas en el usuario y alineadas con las oportunidades del mercado.
 
 ##### Segmento objetivo #1: Negocios que utilizan equipos de refrigeración
-![UserPersona-Carolina_Garcia.png](/assets/chapter02/UserPersona-Carolina_Garcia.png)
+![UserPersona-Carolina_Garcia.png](../assets/chapter02/UserPersona-Carolina_Garcia.png)
 ##### Segmento objetivo #2: Empresas proveedoras de servicios y equipos de refrigeración
-![UserPersona-Luis-Rojas.png](/assets/chapter02/UserPersona-Luis-Rojas.png)
+![UserPersona-Luis-Rojas.png](../assets/chapter02/UserPersona-Luis-Rojas.png)
 
 
 #### 2.3.2. User Task Matrix.
@@ -680,23 +469,23 @@ Las tareas fueron identificadas a partir del análisis cualitativo de entrevista
 Este User Journey Map representa el recorrido actual de Carolina García. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Carolina.
 
-![JourneyMap-segment-1.png](/assets/chapter02/JourneyMap-segment-1.png)
+![JourneyMap-segment-1.png](../assets/chapter02/JourneyMap-segment-1.png)
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
 Este User Journey Map representa el recorrido actual de Luis Rojas. El mapa ilustra su experiencia completa desde que maneja continuamente los datos registrados de la empresa hasta su seguimiento luego de la realización de la venta o servicio.
 Esta sección refleja la situación actual sin intervención de soluciones tecnológicas, mostrando los puntos de contacto, tareas clave, emociones y posibles fricciones que enfrenta en su día a día. Este recorrido permite entender los desafíos que enfrenta Luis.
-![JourneyMap-segment-2.png](/assets/chapter02/JourneyMap-segment-2.png)
+![JourneyMap-segment-2.png](../assets/chapter02/JourneyMap-segment-2.png)
 
 
 #### 2.3.4. Empathy Mapping.
 
 **Segmento objetivo #1: Negocios que utilizan equipos de refrigeración**
-![EmpathyMap-segment-1.png](/assets/chapter02/EmpathyMap-segment-1.png)
+![EmpathyMap-segment-1.png](../assets/chapter02/EmpathyMap-segment-1.png)
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![EmpathyMap-segment-2.png](/assets/chapter02/EmpathyMap-segment-2.png)
+![EmpathyMap-segment-2.png](../assets/chapter02/EmpathyMap-segment-2.png)
 
 #### 2.3.5. As-is Scenario Mapping.
 
@@ -706,7 +495,7 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
-![As-is-Scenario-segment-2.jpg](/assets/chapter02/As-is-Scenario-segment-2.jpg)
+![As-is-Scenario-segment-2.jpg](../assets/chapter02/As-is-Scenario-segment-2.jpg)
 
 
 ### 2.4. Ubiquitous Language.
@@ -750,77 +539,3 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 19. **Corrective Maintenance (Mantenimiento Correctivo):** Servicio realizado para solucionar una falla existente en un equipo.
 
 20. **Notification (Notificación):** Mensajes enviados automáticamente para informar sobre mantenimientos, fallas o cambios importantes.
-
-
-
-## Capítulo III: Requirements Specification <a id="c3"></a>
-
-### 3.1. To-Be Scenario Mapping.
-### 3.2. User Stories.
-### 3.3. Impact Mapping.
-### 3.4. Product Backlog.
-
-
-## Capítulo IV: Product Design <a id="c4"></a>
-
-### 4.1. Style Guidelines
-#### 4.1.1. General Style Guidelines
-#### 4.1.2. Web Style Guidelines
-### 4.2. Information Architecture
-#### 4.2.1. Organization Systems
-#### 4.2.2. Labeling Systems
-#### 4.2.3. SEO Tags and Meta Tags
-#### 4.2.4. Searching Systems
-#### 4.2.5. Navigation Systems
-### 4.3. Landing Page UI Design
-#### 4.3.1. Landing Page Wireframe
-#### 4.3.2. Landing Page Mock-up
-### 4.4. Web Applications UX/UI Design
-#### 4.4.1. Web Applications Wireframes
-#### 4.4.2. Web Applications Wireflow Diagrams
-#### 4.4.3. Web Applications Mock-ups
-#### 4.4.4. Web Applications User Flow Diagrams
-### 4.5. Web Applications Prototyping
-### 4.6. Domain-Driven Software Architecture
-#### 4.6.1. Software Architecture Context Diagram
-#### 4.6.2. Software Architecture Container Diagrams
-#### 4.6.3. Software Architecture Components Diagrams
-### 4.7. Software Object-Oriented Design
-#### 4.7.1. Class Diagrams
-#### 4.7.2. Class Dictionary
-### 4.8. Database Design
-#### 4.8.1. Database Diagram
-
-
-## Capítulo V: Product Implementation, Validation & Deployment <a id="c5"></a>
-
-### 5.1. Software Configuration Management
-#### 5.1.1. Software Development Environment Configuration
-#### 5.1.2. Source Code Management
-#### 5.1.3. Source Code Style Guide & Conventions
-#### 5.1.4. Software Deployment Configuration
-### 5.2. Landing Page, Services & Applications Implementation
-#### 5.2.1. Sprint 1
-##### 5.2.1.1. Sprint Planning 1
-##### 5.2.1.2. Aspect Leaders and Collaborators
-##### 5.2.1.3. Sprint Backlog 1
-##### 5.2.1.4. Development Evidence for Sprint Review
-##### 5.2.1.5. Execution Evidence for Sprint Review
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
-##### 5.2.1.8. Team Collaboration Insights during Sprint
-
-## Conclusiones
-
-## Bibliografía
-
-
-## Anexos
-=======
-## Anexos
- 
-
-
-
-
-
