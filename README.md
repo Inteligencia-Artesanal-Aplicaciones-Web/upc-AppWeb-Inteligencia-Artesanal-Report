@@ -9,8 +9,8 @@
   <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
 <br>
  <h1>Informe TB1</h1>
-  <h2>Startup: OsitoPolar</h2>
-  <h2>Producto: Coolfreez</h2>
+  <h2>Startup: IA: Inteligencia Artesanal</h2>
+  <h2>Producto: OsitoPolar</h2>
 <br>
   <h2>Integrantes</h2>
 <ul style="list-style: none;">
