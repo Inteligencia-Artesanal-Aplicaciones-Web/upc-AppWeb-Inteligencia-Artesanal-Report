@@ -546,6 +546,39 @@ En este primer Sprint hemos realizado la implementación de nuestra Landing Page
 </table>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Como equipo, lo que logramos en este primer Sprint fue la exitosa implementación de nuestra Landing Page y su posterior despliegue gracias a la herramienta GitHub Pages. A continuación, presentaremos lo logrado a través de imágenes mostrando las principales vistas.
+
+- Esta es la sección inicial, donde está el header y nuestra propuesta de valor.
+![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
+
+
+- Aquí se puede observar la sección donde se presenta a los usuarios a los que está orientado nuestra plataforma.
+![LandingPage-Evidence2.png](../assets/chapter-05/LandingPage-Evidence2.png)
+
+
+- Esta sección describe las funcionalidades claves principales de nuestra plataforma OsitoPolar.
+![LandingPage-Evidence3.png](../assets/chapter-05/LandingPage-Evidence3.png)
+
+
+- Tenemos en esta sección la visualización de los beneficios que obtendrá cada uno de nuestros usuarios de cada segmento.
+![LandingPage-Evidence4Neg.png](../assets/chapter-05/LandingPage-Evidence4Neg.png)
+![LandingPage-Evidence4Tec.png](../assets/chapter-05/LandingPage-Evidence4Tec.png)
+
+
+- También se encuentra la sección de nuestra misión y visión.
+![LandingPage-Evidence5.png](../assets/chapter-05/LandingPage-Evidence5.png)
+
+
+- Por último, está la sección donde podemos solicitar una demo.
+![LandingPage-Evidence6.png](../assets/chapter-05/LandingPage-Evidence6.png)
+
+
+- Para más detalles, visualizar el video: [Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
+
+
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
