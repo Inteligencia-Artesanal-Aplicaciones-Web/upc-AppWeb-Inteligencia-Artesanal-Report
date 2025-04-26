@@ -87,13 +87,25 @@ Ejemplos de mensajes:
 
 Nomenclatura de numeración de las versiones: Major changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior. Minor changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica Patch: Cuando se solucionan bugs menores.
 
-Sufijos asignados a las versiones: -alpha: versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha. -beta: versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta. -rc: versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
 
-**Repositorio de Github: **
+**Repositorio de Github:**
 - Enlace para acceder a la [organización en Github](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web)
 - Enlace para acceder al repositorio de la [Landing Page](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page)
 - Enlace para acceder al repositorio del [Informe](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report)
 
+**Flujo de trabajo de GitFlow**
+El flujo de trabajo se basará en un modelo de ramas Git Flow, el cuál se basa en la creación de ramas específicas para cada funcionalidad o corrección de errores. El modelo de "A succesful Git branching model"
+
+--Insertar imagen
+
+**Estructura de branches (Ramas):**
+
+
+1. **Master branch (Rama principal):** Es la rama principal del proyecto, donde se almacena el código estable y listo para producción. Solo se integrarán cambios que hayan sido probados y validados previamente en las ramas de desarrollo y funcionalidad.
+
+2. **Develop Branch (Rama de Desarrollo):** Esta rama actúa como un espacio de integración para el trabajo en equipo, permitiendo pruebas y ajustes de las nuevas funcionalidades antes de fusionarlas con la rama principal. Garantiza que el código sea funcional y estable.
+
+3. **Feature branch (Ramas de funcionalidad):** Cada nueva funcionalidad o tarea específica se desarrollará en su propia rama. Una vez completada y probada, se integrará en la rama de desarrollo. Las ramas de funcionalidad seguirán un esquema de nombres descriptivos, como por ejemplo: `feature/chapter-01`.
 
 #### 5.1.3. Source Code Style Guide & Conventions
 
@@ -133,7 +145,20 @@ Se usó diferentes etiquetas para conformar la estructura del Landing Page del p
 
 
 #### 5.1.4. Software Deployment Configuration
-### 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2. Landing Page, Services & Applic#### 5.1.4. Software Deployment Configuration
+### Landing page deployment:
+Para desplegar la landing page, es necesario cumplir con ciertos requisitos previos, como contar con una cuenta personal, una organización y un repositorio donde se alojarán los archivos. Una vez cumplidos estos requisitos, se pueden seguir los pasos detallados a continuación para realizar el despliegue:
+
+1. Verificar que los archivos principales se encuentren en la raíz (root) del repositorio.
+2. Asegurarse de que los archivos sigan las siguientes convenciones de nombres: "index.html" para la página principal, "styles.css" para los estilos, "script.js" para los scripts principales, "languages.js" para gestionar los textos en diferentes idiomas (español e inglés), y una carpeta llamada "assets/images" para las imágenes.
+3. Subir los archivos al repositorio mediante un commit.
+4. Acceder a la sección Settings > Pages y seleccionar el branch correspondiente, en este caso, "main".
+5. Configurar la carpeta raíz (root) como la fuente de la página.
+6. Esperar a que GitHub realice las verificaciones necesarias. Una vez finalizado el proceso, se generará un enlace que permitirá acceder a la landing page desplegada.
+
+Adicionalmente, se implementó un archivo "languages.js" que contiene los textos en español e inglés. Este archivo es consumido por el script "main.js", el cual permite realizar el cambio de idioma dinámicamente en la landing page.ations Implementation
+
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
 ##### 5.2.1.2. Aspect Leaders and Collaborators
