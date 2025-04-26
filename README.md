@@ -824,8 +824,47 @@ Como equipo, lo que logramos en este primer Sprint fue la exitosa implementació
 
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint solo se realizó la Landing Page, no se han documentado nuevos Endpoints relacionados con el alcance definido, por lo tanto, no se dispone de documentación generada en OpenAPI para esta entrega.
+
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el presente Sprint, se llevó a cabo el despliegue de la Landing Page del proyecto utilizando GitHub Pages como proveedor de hosting. Esta actividad forma parte del proceso de Deployment, siendo un primer paso en la publicación de productos desarrollados en este Sprint.
+
+**Pasos realizados**
+
+1. Iniciamos sesión en GitHub. En caso de no tener cuenta o querer trabajar con una nueva, nos registramos.
+![Deployment-step1.png](assets/chapter-05/Deployment-step1.png)
+
+
+2. Luego de iniciar sesión o registrarnos, seleccionamos a nuestro perfil de usuario y luego elegimos "Your organizations".
+![Deployment-step2-1.png](assets/chapter-05/Deployment-step2-1.png)
+![Deployment-step2-2.png](assets/chapter-05/Deployment-step2-2.png)
+
+
+3. En la nueva pestaña seleccionamos "New organization", luego seleccionamos el plan gratuito y finalmente rellenamos los datos para crear la organización
+![Deployment-step3-1.png](assets/chapter-05/Deployment-step3-1.png)
+
+
+4. Dentro de la organización seleccionamos "People" para invitar a los miembros del equipo.
+![Deployment-step4-1.png](assets/chapter-05/Deployment-step4-1.png)
+![Deployment-step4-2.png](assets/chapter-05/Deployment-step4-2.png)
+
+
+5. Luego de tener al equipo completo en la organización, creamos un nuevo repositorio. En nuestro caso tenemos solo dos repositorios por el momento, uno para el informe y el otro para el Landing Page. Nos dirigimos a este último.
+![Deployment-step5-1.png](assets/chapter-05/Deployment-step5-1.png)
+![Deployment-step5-2.png](assets/chapter-05/Deployment-step5-2.png)
+
+
+6. Al estar en el repositorio "Landing Page", nos dirigimos a settings y seleccionamos "pages" (1). Luego seleccionamos la rama y ruta en la que está el código que deseamos desplegar (2). Guardamos (3) y finalmente tendremos que esperar unos minutos para que el enlace esté disponible (4).
+![Deployment-step6-1.png](assets/chapter-05/Deployment-step6-1.png)
+![Deployment-step6-2.png](assets/chapter-05/Deployment-step6-2.png)
+
+7. Podemos visualizar el resultado.
+![Deployment-step7.png](assets/chapter-05/Deployment-step7.png)
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+
 
 ## Conclusiones
 
