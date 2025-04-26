@@ -1,35 +1,35 @@
- <div align = "center">
-  <h1>Universidad Peruana de Ciencias Aplicadas</h1>
-  <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
-   <h2>Carrera: Ingeniería de Software</h2>
-   <h2>Ciclo: 2025-1</h2>
- <br>
-   <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
-   <h2>Sección: 4378</h2>
-   <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
- <br>
-  <h1>Informe TB1</h1>
-   <h2>Startup: OsitoPolar</h2>
-   <h2>Producto: Coolfreez</h2>
- <br>
-   <h2>Integrantes</h2>
- <ul style="list-style: none;">
-   <li><h3>U202222001 Aliaga Urbina Wilder Gonzalo</h3></li>
-   <li><h3>U202220138 Ramírez Cabrera Kenyi Efraín</h3></li>
-   <li><h3>U202223286 Rodriguez Parco Joseph Pablo</h3></li>
-   <li><h3>U202123655 Rojas Reategui Victor Manuel</h3></li>
-   <li><h3>U20221e617 Verona Flores Italo Sebastián</h3></li>
- </ul>
- <br>
-    <h3>Abril 2025</h3>
+<div align = "center">
+ <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+ <img style="height: 200px" src=https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png>
+  <h2>Carrera: Ingeniería de Software</h2>
+  <h2>Ciclo: 2025-1</h2>
+<br>
+  <h2>Curso: 1ASI0730 Aplicaciones Web</h2>
+  <h2>Sección: 4378</h2>
+  <h2>Profesor: Angel Augusto Velasquez Nuñez</h2>
+<br>
+ <h1>Informe TB1</h1>
+  <h2>Startup: OsitoPolar</h2>
+  <h2>Producto: Coolfreez</h2>
+<br>
+  <h2>Integrantes</h2>
+<ul style="list-style: none;">
+  <li><h3>U202222001 Aliaga Urbina Wilder Gonzalo</h3></li>
+  <li><h3>U202220138 Ramírez Cabrera Kenyi Efraín</h3></li>
+  <li><h3>U202223286 Rodriguez Parco Joseph Pablo</h3></li>
+  <li><h3>U202123655 Rojas Reategui Victor Manuel</h3></li>
+  <li><h3>U20221e617 Verona Flores Italo Sebastián</h3></li>
+</ul>
+<br>
+   <h3>Abril 2025</h3>
 
- </div>
+</div>
 
 
 ## Registro de Versiones del Informe
 
 | Versión | Fecha       | Autor        | Descripción de modificación         |
- |---------|-------------|--------------|-------------------------------------|
+|---------|-------------|--------------|-------------------------------------|
 | 0.1     |             |              |                                     |
 
 ## Project Report Collaboration Insights
@@ -144,33 +144,33 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
- <table>
-   <tr>
-     <th>Criterio específico</th>
-     <th>Acciones realizadas</th>
-     <th>Conclusiones</th>
-   </tr>
-   <tr>
-     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-     <td>
- <br>
- <br>
- <br>
- <br>
-     <td>
- </td>
-   </tr>
-   <tr>
-     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-     <td>
- <br>
- <br>
- <br>
-     </td>
-     <td>
- </td>
-   </tr>
- </table>
+<table>
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
+    <td>
+<br>
+<br>
+<br>
+<br>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+<br>
+<br>
+<br>
+    </td>
+    <td>
+</td>
+  </tr>
+</table>
 
 
 ## Capítulo I: Introducción <a id="c1"></a>
@@ -189,15 +189,14 @@ del ABET – EAC - Student Outcome 5.
 ### 1.3. Segmentos objetivo.
 
 
-## Capítulo II: Requirements Elicitation & Analysis <a id="c2"></a>
-
-### 2.1. Competidores.
-#### 2.1.1. Análisis competitivo.
-#### 2.1.2. Estrategias y tácticas frente a competidores.
+## Capítulo II: Requirements Elicitation & Analysis <a id="cap2"></a>
+### 2.1. Competidores
+#### 2.1.1. Análisis competitivo
+#### 2.1.2. Estrategias y tácticas frente a competidores
 ### 2.2. Entrevistas.
-#### 2.2.1. Diseño de entrevistas.
-#### 2.2.2. Registro de entrevistas.
-#### 2.2.3. Análisis de entrevistas.
+#### 2.2.1. Diseño de entrevistas
+#### 2.2.2. Registro de entrevistas
+#### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding.
 #### 2.3.1. User Personas.
 #### 2.3.2. User Task Matrix.
@@ -338,6 +337,7 @@ Escala de Story Points (Fibonacci):
 | 35    | US-35         | Crear registro de intervención técnica         | Como desarrollador, quiero permitir registrar intervenciones técnicas realizadas a través de la API, para llevar seguimiento del mantenimiento.                            | 5            |
 | 36    | US-36         | Registrar evento de alerta manual              | Como desarrollador, quiero permitir registrar una alerta manual vía API para que los técnicos puedan ingresar incidentes detectados en campo.                              | 3            |
 | 37    | US-37         | Evaluar servicio                               | Como desarrollador, quiero implementar un endpoint RESTful que permita a los clientes registrar y actualizar una evaluación de servicio, para reflejar su experiencia.     | 8            |
+
 
 
 ## Capítulo IV: Product Design <a id="c4"></a>
