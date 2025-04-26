@@ -89,6 +89,10 @@ Nomenclatura de numeración de las versiones: Major changes: Cuando el código o
 
 Sufijos asignados a las versiones: -alpha: versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha. -beta: versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta. -rc: versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
 
+**Repositorio de Github: **
+- Enlace para acceder a la [organización en Github](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web)
+- Enlace para acceder al repositorio de la [Landing Page](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page)
+- Enlace para acceder al repositorio del [Informe](https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report)
 
 
 #### 5.1.3. Source Code Style Guide & Conventions
