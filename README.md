@@ -28,15 +28,19 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor        | Descripción de modificación         |
-|---------|-------------|--------------|-------------------------------------|
-| 0.1     |             |              |                                     |
+| Versión   | Fecha    | Autor                 | Descripción de modificación                              |
+|-----------|----------|-----------------------|----------------------------------------------------------|
+| 0.1       | 10/04/25 | Kenyi Ramírez         | Creación de la plantilla                                 |
+| 0.2       | 26/04/25 | Todos los integrantes | Modificación y arreglo de ramas                          |
+| 0.3 (TB1) | 26/04/25 | Todos los integrantes | Desarrollo completo de todos los puntos de cada capítulo |
+
 
 ## Project Report Collaboration Insights
 URL de la organización del proyecto:
-
+https://github.com/Inteligencia-Artesanal-Aplicaciones-Web
 
 URL del repositorio del informe del proyecto:
+https://github.com/Inteligencia-Artesanal-Aplicaciones-Web/upc-AppWeb-Inteligencia-Artesanal-Report
 
 ## Contenido
 
