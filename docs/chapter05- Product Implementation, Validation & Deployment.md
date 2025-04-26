@@ -433,6 +433,118 @@ Enlace: https://trello.com/b/xAOjqyPz/inteligenciaartesanal-ositopolar
 </table>
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+En este primer Sprint hemos realizado la implementación de nuestra Landing Page, donde todo el equipo ha aportado en varias tareas. En la siguiente tabla se muestran los commits realizados.
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9caef73</td>
+        <td colspan="2">chore: added html file</td>
+        <td colspan="2">added html file</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+        <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">ae1fd12</td>
+        <td colspan="2">feat: added header and footer section</td>
+        <td colspan="2">added header and footer section</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+     <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">10093f4</td>
+        <td colspan="2">style: Add styles</td>
+        <td colspan="2">Add styles</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">5a4332d</td>
+        <td colspan="2">feat: added script.js</td>
+        <td colspan="2">added script.js</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+    <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">72f4157</td>
+        <td colspan="2">feat: added hero section.</td>
+        <td colspan="2">added hero section.</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">e875205</td>
+        <td colspan="2">fix: fixed header section.</td>
+        <td colspan="2">fixed header section.</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9624ec5</td>
+        <td colspan="2">feat: update hero section images and testimonials</td>
+        <td colspan="2">update hero section images and testimonials</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9bc4018</td>
+        <td colspan="2">feat: Funcionalidades Section</td>
+        <td colspan="2">Funcionalidades Section</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">9e6c718</td>
+        <td colspan="2">feat: add language toggle button and translation functionality (WIP)</td>
+        <td colspan="2">add language toggle button and translation functionality (WIP)</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">a99916d</td>
+        <td colspan="2">feat: nosotros section</td>
+        <td colspan="2">nosotros section</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">022b681</td>
+        <td colspan="2">feat: add multilingual support for functionalities and company sections</td>
+        <td colspan="2">add multilingual support for functionalities and company sections</td>
+        <td colspan="2">25/04/2025</td>
+    </tr>
+   <tr>
+        <td colspan="2">Inteligencia-Artesanal-Aplicaciones-Web/Landing-Page</td>
+        <td colspan="2">main</td>
+        <td colspan="2">3ddec9f</td>
+        <td colspan="2">feat: update about section image to enhance visual content</td>
+        <td colspan="2">update about section image to enhance visual content</td>
+        <td colspan="2">26/04/2025</td>
+    </tr>
+
+
+</table>
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
