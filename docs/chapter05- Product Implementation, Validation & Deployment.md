@@ -232,6 +232,88 @@ La página se pudo mejorar adaptandolo a modo responsive y garantizando una expe
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 ##### 5.2.1.3. Sprint Backlog 1
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
