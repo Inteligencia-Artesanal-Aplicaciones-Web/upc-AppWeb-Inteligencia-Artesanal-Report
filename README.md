@@ -153,22 +153,20 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
     <td>
-<br>
-<br>
-<br>
-<br>
+      1. Se elaboraron de manera coordinada los entregables de Software Object-Oriented Design, Class Diagrams y Class Dictionary, dividiendo responsabilidades de forma equilibrada y asegurando retroalimentación continua entre los miembros.
+    </td>
     <td>
-</td>
+      1. La colaboración permitió que el equipo asumiera el liderazgo en diferentes momentos según las fortalezas individuales, mejorando la calidad de las entregas y fortaleciendo la confianza mutua.
+    </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>
-<br>
-<br>
-<br>
+      1. Se organizó la creación del Database Diagram y el Product Backlog mediante planificación conjunta, estableciendo plazos claros y distribuyendo tareas de forma inclusiva para asegurar la participación de todos.
     </td>
     <td>
-</td>
+      1. La planificación y colaboración lograron que los entregables se completaran de manera eficiente, respetando los tiempos establecidos y manteniendo una comunicación abierta que impulsó el cumplimiento de los objetivos.
+    </td>
   </tr>
 </table>
 
