@@ -146,7 +146,7 @@ Se usó diferentes etiquetas para conformar la estructura del Landing Page del p
 
 #### 5.1.4. Software Deployment Configuration
 
-### 5.2. Landing Page, Services & Applic#### 5.1.4. Software Deployment Configuration
+
 ### Landing page deployment:
 Para desplegar la landing page, es necesario cumplir con ciertos requisitos previos, como contar con una cuenta personal, una organización y un repositorio donde se alojarán los archivos. Una vez cumplidos estos requisitos, se pueden seguir los pasos detallados a continuación para realizar el despliegue:
 
@@ -158,6 +158,21 @@ Para desplegar la landing page, es necesario cumplir con ciertos requisitos prev
 6. Esperar a que GitHub realice las verificaciones necesarias. Una vez finalizado el proceso, se generará un enlace que permitirá acceder a la landing page desplegada.
 
 Adicionalmente, se implementó un archivo "languages.js" que contiene los textos en español e inglés. Este archivo es consumido por el script "main.js", el cual permite realizar el cambio de idioma dinámicamente en la landing page.ations Implementation
+
+### Github Pages:
+![Github-Pages.png](../assets/chapter-05/Github-Pages.png)
+
+La URL que nos entrega Github Pages para acceder a la landing page es la siguiente: https://inteligencia-artesanal-aplicaciones-web.github.io/Landing-Page/
+
+
+### 5.2. Landing Page, Services & Applications Implementation.
+
+![Landing-Page.png](../assets/chapter-05/Landing-Page.png)
+
+En el siguiente enlace se estará mostrando la landing page de la startup:
+[Video demostrativo de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202223286_upc_edu_pe/EWpS23aHI95KiF5rJXhOyHgBoHAL62jYwnz8m4zMqxkGwA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwYjby)
+
+En la sección siguiente se detallará el proceso de implementación, documentación y despliegue del Landing.
 
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1
