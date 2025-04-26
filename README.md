@@ -1023,8 +1023,7 @@ Desde la perspectiva del usuario, este mapa nos permite visualizar su situación
 
 **Segmento objetivo #2: EMPRESAS PROVEEDORAS DE SERVICIOS Y EQUIPOS DE REFRIGERACIÓN**
 
-![To-Be-Scenario-segment-2.png](assets/chapter03/To-Be-Scenario-segment-2.png)
-
+![To-Be-Scenario-segment-2.png](assets/chapter03/To-Be-Scenario-segment-2.png) 
 
 ### 3.2. User Stories.
 
@@ -1087,7 +1086,7 @@ El trabajo fue realizado de manera colaborativa, priorizando la comprensión del
 El siguiente Impact Mapping fue desarrollado en UXPressia de manera colaborativa por el equipo de OsitoPolar para alinear los objetivos de negocio con los requerimientos funcionales de la plataforma.
 
 
-![Impact-Mapping.png](assets/chapter03/Impact-Mapping.png)
+![Impact-Mapping.png](assets/chapter03/Impact-Mapping.png) 
 
 ### 3.4. Product Backlog.
 
@@ -1168,7 +1167,7 @@ La identidad visual de OsitoPolar busca transmitir seguridad, innovación y cerc
 
 Para mantener la formalidad y accesibilidad de la interfaz de usuario de OsitoPolar se establecerá las tipografías Helvetica y Open Sans por sus características funcionales, estéticas y por su alta compatibilidad en interfaces digitales, siendo Helvetica la primaria.
 
-![Helvetica-typography.png](assets/chapter04/Helvetica-typography.png)
+![Helvetica-typography.png](assets/chapter04/Helvetica-typography.png) 
 
 ![Open-sans-typography.png](assets/chapter04/Open-sans-typography.png)
 
